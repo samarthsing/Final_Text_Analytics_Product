@@ -1,0 +1,91 @@
+<?xml version='1.0' ?>
+<topicModel>
+  <topic id='0' alpha='0.3800543759404625' totalTokens='18082'>
+	<word rank='1' count='477.0'>gas</word>
+	<word rank='2' count='402.0'>energy</word>
+	<word rank='3' count='303.0'>shale</word>
+	<word rank='4' count='226.0'>policy</word>
+	<word rank='5' count='216.0'>poland</word>
+	<word rank='6' count='179.0'>state</word>
+	<word rank='7' count='135.0'>regulatory</word>
+	<word rank='8' count='130.0'>technology</word>
+	<word rank='9' count='122.0'>technologies</word>
+	<word rank='10' count='115.0'>innovation</word>
+	<word rank='11' count='108.0'>nuclear</word>
+	<word rank='12' count='104.0'>new</word>
+	<word rank='13' count='102.0'>fracking</word>
+	<word rank='14' count='100.0'>polish</word>
+	<word rank='15' count='100.0'>resources</word>
+	<word rank='16' count='88.0'>power</word>
+	<word rank='17' count='84.0'>level</word>
+	<word rank='18' count='83.0'>important</word>
+	<word rank='19' count='82.0'>country</word>
+	<word rank='20' count='80.0'>political</word>
+  </topic>
+  <topic id='1' alpha='0.41930001589113974' totalTokens='20369'>
+	<word rank='1' count='775.0'>gas</word>
+	<word rank='2' count='641.0'>shale</word>
+	<word rank='3' count='297.0'>development</word>
+	<word rank='4' count='194.0'>local</word>
+	<word rank='5' count='158.0'>public</word>
+	<word rank='6' count='157.0'>risks</word>
+	<word rank='7' count='130.0'>governance</word>
+	<word rank='8' count='123.0'>industry</word>
+	<word rank='9' count='117.0'>uncertainty</word>
+	<word rank='10' count='115.0'>extraction</word>
+	<word rank='11' count='110.0'>communities</word>
+	<word rank='12' count='108.0'>decision</word>
+	<word rank='13' count='107.0'>years</word>
+	<word rank='14' count='106.0'>water</word>
+	<word rank='15' count='106.0'>knowledge</word>
+	<word rank='16' count='104.0'>social</word>
+	<word rank='17' count='101.0'>risk</word>
+	<word rank='18' count='100.0'>environmental</word>
+	<word rank='19' count='96.0'>oil</word>
+	<word rank='20' count='96.0'>participants</word>
+  </topic>
+  <topic id='2' alpha='0.785061273954938' totalTokens='25618'>
+	<word rank='1' count='652.0'>coal</word>
+	<word rank='2' count='579.0'>energy</word>
+	<word rank='3' count='339.0'>policy</word>
+	<word rank='4' count='244.0'>industry</word>
+	<word rank='5' count='236.0'>climate</word>
+	<word rank='6' count='210.0'>power</word>
+	<word rank='7' count='208.0'>national</word>
+	<word rank='8' count='207.0'>research</word>
+	<word rank='9' count='171.0'>development</word>
+	<word rank='10' count='171.0'>government</word>
+	<word rank='11' count='165.0'>mining</word>
+	<word rank='12' count='163.0'>actors</word>
+	<word rank='13' count='156.0'>political</word>
+	<word rank='14' count='139.0'>groups</word>
+	<word rank='15' count='136.0'>economic</word>
+	<word rank='16' count='131.0'>change</word>
+	<word rank='17' count='127.0'>environmental</word>
+	<word rank='18' count='113.0'>new</word>
+	<word rank='19' count='108.0'>social</word>
+	<word rank='20' count='106.0'>science</word>
+  </topic>
+  <topic id='3' alpha='0.5069051127856403' totalTokens='12160'>
+	<word rank='1' count='253.0'>coal</word>
+	<word rank='2' count='177.0'>oil</word>
+	<word rank='3' count='142.0'>energy</word>
+	<word rank='4' count='137.0'>fracking</word>
+	<word rank='5' count='122.0'>news</word>
+	<word rank='6' count='94.0'>environmental</word>
+	<word rank='7' count='88.0'>gas</word>
+	<word rank='8' count='80.0'>natural</word>
+	<word rank='9' count='78.0'>resources</word>
+	<word rank='10' count='77.0'>use</word>
+	<word rank='11' count='69.0'>communities</word>
+	<word rank='12' count='68.0'>stories</word>
+	<word rank='13' count='67.0'>issues</word>
+	<word rank='14' count='64.0'>sources</word>
+	<word rank='15' count='64.0'>topic</word>
+	<word rank='16' count='61.0'>related</word>
+	<word rank='17' count='60.0'>like</word>
+	<word rank='18' count='60.0'>fuel</word>
+	<word rank='19' count='58.0'>emissions</word>
+	<word rank='20' count='56.0'>new</word>
+  </topic>
+</topicModel>

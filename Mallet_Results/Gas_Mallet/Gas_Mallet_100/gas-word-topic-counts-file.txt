@@ -1,0 +1,2990 @@
+0 called 39:5 47:4 88:3 49:1
+1 fracking 77:125 52:120 64:1
+2 drilling 37:49 15:15 79:5 42:1
+3 technique 99:4 28:4 52:3 86:1
+4 previously 94:3 39:3 65:2 16:1 56:1
+5 inaccessible 0:3
+6 oil 34:70 63:65 35:4 91:2 77:1 21:1
+7 gas 15:1186 56:1
+8 reserves 70:7 11:6 13:5 34:2 8:1 46:1 42:1 7:1
+9 process 60:65 45:48 52:8 77:3
+10 aid 0:4 54:1
+11 energy 97:353 71:65 66:44 38:15 37:7 45:5 61:3
+12 independence 52:5 47:3 53:2
+13 controversial 37:20 74:1
+14 public 37:90 60:81 45:13 99:2
+15 opinion 54:11 77:7 61:3 74:1 7:1 96:1 60:1
+16 divided 53:7 47:2
+17 guided 58:2 52:2 20:1 23:1
+18 agenda 26:17 52:10 71:2 50:2
+19 setting 53:8 51:5 96:2 24:2 86:1
+20 framing 54:20 42:3 87:2 44:2 75:1 58:1
+21 study 0:39 97:24 76:20 98:8 7:1
+22 content 54:16 58:1 59:1
+23 analyses 15:3 91:1 25:1
+24 news 52:122
+25 coverage 52:35 54:12 29:1
+26 cable 54:42 52:2
+27 networks 54:19 87:12 64:1 37:1 6:1 89:1 63:1
+28 cnn 52:27
+29 fox 52:32
+30 msnbc 52:25 36:1
+31 results 0:42
+32 lacks 52:1 39:1 16:1 29:1
+33 substance 52:2 32:2
+34 relies 56:2 0:2
+35 thematic 52:26 57:2
+36 failed 21:3 97:2
+37 provide 39:34 37:5
+38 factual 52:4
+39 information 37:68 52:8 33:3 31:1
+40 issue 52:26 0:19 97:9 36:3 5:1
+41 related 37:40 77:34 46:6 30:3 44:2 41:2 24:1
+42 topics 52:7 54:4 14:1 64:1
+43 discussed 60:17 54:6 50:3 40:2
+44 sources 4:32 52:24 45:12 76:1 69:1 31:1 2:1
+45 used 16:30 45:21 75:3
+46 vary 66:4 53:4 16:2 70:1 13:1 65:1
+47 ideologically 52:5
+48 theoretical 0:4 30:2
+49 practical 79:7 50:3 73:2 0:1
+50 implications 23:14 16:14 54:4 67:2 2:2 7:1
+51 include 38:18 3:13 57:2
+52 potential 39:84 85:30 7:27 12:2 41:1
+53 audiences 52:26 49:1
+54 influencing 0:4 56:2 97:1 1:1
+55 future 97:19 88:19 85:15 0:5 52:3 70:2 45:2 77:1
+56 behaviors 46:3 35:3 52:2
+57 judgments 57:3 53:3 83:1
+58 hydraulic 37:50 42:25 40:11 53:7 13:1 31:1
+59 fracturing 37:36 64:24 79:20 39:16 76:1 81:1
+60 commonly 35:4 67:2 73:1
+61 referred 77:4 54:4 11:2 73:1
+62 allows 45:11 24:1
+63 extractive 54:8 92:3 28:3 7:1
+64 companies 31:51 88:23 49:12 76:7
+65 access 80:19 60:14 34:10 63:4 37:1
+66 deposits 74:17 70:16 45:6
+67 large 15:29 98:13 36:4 65:1
+68 volume 1:7 0:3 18:2 31:1
+69 water 98:33 14:27 35:23 74:11 52:7 3:5 11:1
+70 proppants 77:2 53:1
+71 deep 77:17 7:1 59:1 97:1
+72 ground 37:10 91:6 52:2 33:2
+73 fracture 23:2 53:1
+74 rock 1:9 40:7 58:6 15:4 54:3 85:1
+75 resulting 16:12 83:1 38:1
+76 extraction 86:61 40:50 15:35 37:9 63:2 25:1
+77 natural 34:90 48:8 10:6 91:4 45:3 71:1
+78 use 0:51 61:15 54:11 34:7 20:1
+79 increased 54:13 8:9 32:6 40:1 96:1 39:1
+80 decade 41:3 91:1 70:1 19:1
+81 addition 31:13 79:4 45:4 67:2 37:2 52:1 41:1
+82 global 39:29 48:10 9:9 12:1
+83 prices 74:7 63:7 11:5 47:2 55:1
+84 accounts 72:2 0:2
+85 half 56:7 16:5 48:2
+86 crude 70:8 83:2
+87 production 34:79 66:15 87:8 16:3 85:1 67:1 53:1 90:1 40:1 97:1
+88 thirds 19:1 15:1 59:1
+89 instrumental 77:5 42:1
+90 making 60:93 38:3 21:2 4:2 1:2
+91 independent 38:11 74:1
+92 increasingly 39:16 13:2
+93 practiced 52:3 15:1
+94 remains 97:10 39:3 91:2 28:2 2:1 0:1
+95 limited 63:27 53:15 21:4 65:1 2:1
+96 knowledge 88:30 35:26 61:22 1:16 63:10 55:5
+97 regarding 0:25 31:5
+98 long 15:35 92:4 30:4 9:2 70:1 11:1
+99 term 86:21 35:9 36:5 70:2 95:1 56:1
+100 consequences 37:19
+101 environmental 0:159 42:14 65:2 71:1 52:1
+102 concerns 39:24 35:12 69:10 5:3
+103 loss 41:4 63:1
+104 air 14:16 53:4 48:2 29:1
+105 pollution 14:49 54:8 86:4 72:2
+106 groundwater 79:21 46:3 65:2 11:2
+107 contamination 79:21 54:7 57:5 56:4 66:1
+108 methane 19:4 8:4 83:1 31:1
+109 risk 46:63 0:29 49:4 92:2 90:1
+110 seismic 52:7 94:3 69:3
+111 activity 23:35 37:4 84:2 53:1 52:1 69:1 91:1 28:1 8:1
+112 issues 52:37 11:21 93:12 44:11 40:10 47:2 31:1
+113 partisan 52:14 27:2
+114 lines 52:6 17:3 25:1
+115 speculated 70:2 52:1
+116 opinions 52:6 93:2 4:2 9:1
+117 based 37:56 87:18 60:15 9:3 27:2
+118 geographical 39:6 70:5
+119 proximity 46:22 52:2 58:1 80:1
+120 areas 63:15 97:13 52:2 40:2 26:2 98:1
+121 investigation 0:16 92:2 97:1
+122 residents 46:21 73:15 41:9 93:3 63:1
+123 states 34:63 24:35 63:8 37:1 20:1
+124 occurs 98:6 0:3 37:1 12:1
+125 regardless 87:5 60:1 40:1
+126 geographic 98:7 38:1
+127 political 39:75 34:20 50:12 61:8 70:2 12:1
+128 pre 65:6 75:1 69:1
+129 existing 38:18 63:17 24:7 61:4 53:2
+130 attitudes 35:5 9:4 75:2 38:1
+131 greatest 52:1 95:1 23:1
+132 individuals 52:13 46:12 69:3 55:2
+133 support 31:49 95:23 53:8 23:1
+134 moratorium 79:4 53:1 75:1 70:1 78:1 65:1
+135 conservatives 54:4
+136 supportive 0:3 31:2 7:1 80:1 36:1
+137 liberals 52:4
+138 presents 98:4 52:2 37:2 34:1 67:1
+139 opportunity 45:11 36:3 0:3 41:2 26:2 25:1 24:1
+140 examine 37:10 32:2
+141 reporting 52:22 63:4
+142 contribute 71:6 38:5 39:4 9:2 0:1 35:1
+143 ideological 53:9 77:1 82:1
+144 previous 49:9 14:7 87:1 38:1
+145 research 15:37 24:36 89:17 54:16 98:11 88:2
+146 examined 52:8 56:6 81:2 74:1 84:1
+147 presented 4:12 54:10 27:9 63:2 97:1 17:1 82:1
+148 social 31:156 60:3 59:2 74:1 98:1 9:1
+149 media 54:36 8:8 9:3 51:2 46:1
+150 print 54:4
+151 evidence 78:18 7:12 35:9 94:4 0:2 38:1
+152 attention 1:13 53:9 50:8 15:4 40:3
+153 release 54:5 69:3 41:2 82:1
+154 gasland 54:5 14:1 68:1
+155 documentary 53:3 18:1
+156 date 0:3 54:2 34:1 41:1
+157 portrayal 52:5
+158 markets 61:9 80:7 30:1 78:1 1:1 45:1
+159 viewpoints 54:1 22:1 31:1
+160 outlets 54:26
+161 little 14:7 61:6 95:3 24:3 75:1
+162 variation 33:3 38:1 92:1
+163 regard 97:14 19:4 98:2 38:2 26:2
+164 story 84:8 52:5 77:1
+165 tend 35:12 45:2 5:1
+166 ways 77:21 1:3
+167 examination 52:9 87:3 70:1 0:1 67:1
+168 continued 80:2 70:2 61:1 39:1 25:1 82:1
+169 controversy 37:9 9:4 35:2 45:1
+170 prompted 64:2 59:2 0:1 81:1
+171 shed 52:3
+172 light 77:7 15:5 6:2 78:1 70:1 52:1 25:1
+173 slanted 52:3
+174 current 0:42 94:2 69:1 13:1
+175 examines 97:8
+176 presentation 52:7
+177 associated 35:41 97:15 76:12 3:8 66:5 98:1
+178 prominent 53:4 17:2 15:2
+179 utilized 52:4
+180 stories 54:37 50:5
+181 manner 45:3 17:2 42:1
+182 systematic 52:2 16:1 13:1
+183 covering 52:2 42:1
+184 work 77:11 86:7 53:4 6:3 2:3 9:2 52:1
+185 focuses 38:4 73:1
+186 aim 44:8 36:4 53:3 80:1 17:1
+187 promote 21:7 75:3 52:2
+188 consistent 3:8 45:5 97:1
+189 points 49:18 91:1
+190 view 38:8 45:5 82:2 17:2 92:1 41:1 47:1
+191 topic 54:12 16:5
+192 refers 59:4 20:4 7:1 54:1
+193 unconventional 13:46 70:41 7:9 72:4 92:2 54:1
+194 dispersed 6:6 52:1 91:1
+195 fractures 45:2 97:1 29:1
+196 produced 34:22 15:5 4:1 9:1
+197 rocks 6:4 7:2 45:1 73:1
+198 vertically 38:2 39:1
+199 extending 81:2 41:1 64:1
+200 horizontal 86:13 67:2 24:1
+201 directional 53:2 19:1 3:1
+202 sections 49:3 65:1 12:1
+203 flow 20:11 41:1 61:1 75:1 73:1
+204 resources 34:95 48:28 17:18 15:8 63:7
+205 using 74:8 52:6 23:4 71:3 98:2 45:2 96:1 82:1
+206 wells 63:32 7:8 14:7
+207 high 97:22 35:10 92:1 42:1
+208 pressure 86:3 22:2 16:2 53:1
+209 force 15:8 0:1
+210 fissures 77:2 20:1
+211 terminology 34:2 14:1 22:1
+212 experts 4:44 98:6 52:6 88:2
+213 true 79:6 16:1 45:1
+214 stage 60:11 63:4 11:3 73:1
+215 entire 96:3 49:3 46:3 57:1 70:1 15:1
+216 employed 44:7 98:2 41:1
+217 commercially 8:5 59:1 0:1
+218 viable 31:5 0:4 70:1
+219 drilled 31:10 60:5 81:1
+220 marcellus 55:11 52:1
+221 shale 15:929 61:5 33:3 12:3 16:1 41:1
+222 currently 16:8 86:6 8:5
+223 producing 31:10
+224 billion 97:6 45:4 51:1
+225 cubic 4:9 8:3 2:1
+226 feet 41:6 38:1 82:1
+227 daily 56:2 53:1
+228 american 45:11 93:2 40:2
+229 difficult 37:13 33:10 79:2 21:2 84:1 66:1
+230 population 37:10
+231 awareness 31:4 52:1 48:1 0:1
+232 likely 0:14 31:8 49:2 96:1 23:1
+233 overall 39:18
+234 greater 37:10 66:6 14:6 31:3 21:1
+235 opposition 60:22
+236 recent 60:12 4:12 98:7 70:2 7:1 40:1
+237 studies 0:60 95:5 88:4 68:1 22:1
+238 conflicting 54:5
+239 instance 53:8 77:6 40:2 80:1
+240 key 38:54 69:12 89:3 60:1
+241 specifically 37:20 77:5 78:1
+242 negative 34:10 52:7 57:5 95:2
+243 strong 97:12 24:5 50:2 86:1 60:1 21:1
+244 sides 73:4 16:1
+245 level 24:61 97:46 38:3 21:3 1:2 69:1
+246 furthermore 59:3 44:3 86:1 39:1 79:1 16:1
+247 individual 35:13 91:5 56:2
+248 influenced 44:5 98:2
+249 structure 39:11 61:1 20:1 6:1 0:1
+250 argument 91:7 8:4 28:1
+251 example 39:30 35:21 56:1 79:1
+252 informing 35:2 55:1
+253 economic 39:71 61:48 66:8 41:8 37:2 13:1
+254 benefits 34:40 14:27 53:19 60:18 74:9 8:5
+255 increase 34:25 74:6 54:4 40:1
+256 costs 74:12 61:10 52:7 89:6 36:4 13:1
+257 decrease 99:3 36:1
+258 necessary 39:16 87:4 66:3 15:3 81:1
+259 aspects 45:22 81:2 47:1 1:1
+260 reported 35:20 10:1
+261 emphasized 52:4
+262 various 1:10 37:7 32:4 83:3 74:3 71:1
+263 assesses 69:2 52:1
+264 presentations 54:2 70:1
+265 formal 28:5 77:3 79:2 98:1
+266 definition 52:12 79:4 47:1
+267 evaluated 65:2 52:1
+268 definitional 54:4
+269 measure 7:6 48:2 35:2
+270 contained 39:7 6:2
+271 reviewed 37:2 48:1 42:1
+272 articles 35:2 9:2 26:1
+273 policy 38:158 89:91 64:22 74:4 40:1 23:1
+274 documents 52:3 86:2
+275 reports 97:11 52:2 20:2 89:1 9:1
+276 administration 37:5 93:3 70:1 18:1 51:1
+277 protection 40:6 34:3 24:3 64:1 9:1
+278 agency 77:16 26:3 70:2
+279 following 39:21 71:6 47:5 89:1 30:1 69:1 67:1
+280 question 77:31 40:11 8:1
+281 addresses 0:2 2:1
+282 depth 52:8 49:4 46:4 55:2
+283 report 44:29 7:1 18:1 63:1
+284 channels 52:6 57:1
+285 result 0:56 91:1
+286 viewers 52:8
+287 voices 54:1 98:1 33:1
+288 years 46:66 15:40 32:2 83:1 41:1
+289 combined 44:4 85:1
+290 average 56:3 63:2 21:1
+291 total 97:16 21:1
+292 revenues 55:6 60:2 86:1 83:1
+293 profits 39:3 74:1
+294 grown 37:7
+295 major 17:17 77:8
+296 known 20:15 48:5 15:3 56:2 52:2 13:1
+297 different 15:40 8:38 39:21 25:3 95:2 60:2
+298 broadcast 52:7
+299 provided 37:15 23:12
+300 unique 37:11 56:1 96:1
+301 ability 23:12 45:4 86:2 33:1
+302 exposed 14:4 39:3
+303 way 49:23 15:7 20:6 71:3 32:3
+304 unlike 56:2 52:2 25:1 82:1
+305 especially 0:14 29:13 98:1
+306 politics 50:12 63:3 75:2 66:2 18:2 27:1 88:1
+307 split 54:2 0:1 41:1
+308 similar 0:19 64:7 97:6 67:1
+309 present 37:31 52:1
+310 distinct 44:5 20:5 7:3 38:1
+311 pro 36:7 54:4 67:1 31:1
+312 conservative 38:5
+313 stance 83:3 91:2
+314 attend 53:1 78:1 68:1
+315 review 91:9 37:6 66:3 93:2
+316 specific 39:86 31:4 61:1
+317 demonstrated 31:6 94:2
+318 differences 66:10 84:2 54:1 10:1 89:1
+319 environment 49:28 64:10 74:2 41:1 39:1
+320 climate 39:10 89:7 16:5 58:1
+321 change 77:26 39:15 78:3 45:3
+322 feature 75:5 52:3
+323 scientific 79:42 1:5 44:3 97:2 17:1
+324 claims 83:4 20:3 85:2 96:1
+325 closely 45:5 86:1 29:1
+326 linked 16:5 65:1 68:1
+327 makes 23:12 86:6 92:1 89:1
+328 sense 39:23 25:1 21:1
+329 framed 54:7 64:3 1:2 11:1
+330 techniques 85:10 67:3 36:2 35:2 22:2 74:1 82:1
+331 differ 91:5 53:3 2:2 75:1 39:1 10:1 70:1
+332 preference 72:3 65:1 69:1
+333 interact 61:1 54:1 59:1
+334 like 8:28 14:6 40:5 4:5 82:4
+335 avoid 11:10
+336 cover 23:2 26:1 52:1 66:1
+337 constrained 39:4
+338 boundaries 53:1 25:1 87:1
+339 historically 24:3 97:2 5:1
+340 shaped 39:4 56:1
+341 effects 49:20 15:11 74:9 32:9 11:7 14:1 3:1
+342 non 69:19 98:10 15:7 6:1
+343 acceptance 65:6 55:3 29:3
+344 effect 97:9 92:3 34:2 5:2 72:1 46:1
+345 treatment 35:2 0:2 64:1
+346 carefully 54:1 35:1 78:1
+347 tailored 49:3 35:1
+348 selectively 53:4 52:1 76:1
+349 reflect 31:5 76:3 52:2 28:1 17:1
+350 reality 7:2 65:1
+351 selective 49:3
+352 influences 53:1 65:1 56:1 44:1 30:1
+353 perceptions 14:24 98:17 56:15 64:4 52:3 84:1 42:1
+354 constitutes 52:1 49:1 6:1 81:1
+355 problem 45:13 76:7
+356 interpretation 86:4 54:2 2:1
+357 evaluation 74:3 56:2 52:2 31:1
+358 solutions 45:8 64:6
+359 defining 52:2 78:1
+360 promoting 44:8 78:2 92:1
+361 certain 49:27 98:13 40:2 48:1
+362 audience 53:4 98:1
+363 parameters 20:3 9:2 83:1
+364 engage 60:14
+365 object 37:2 40:1
+366 appraisals 58:3 65:1
+367 decisions 60:31 23:10 78:9 86:2
+368 subsequent 41:2 10:1 70:1
+369 action 69:27
+370 provides 15:10 71:8 0:3 41:2 54:1 14:1
+371 suitable 70:2 4:2
+372 framework 3:60 49:3 88:2 0:1
+373 examining 39:6 97:2
+374 approach 60:40 15:34
+375 construction 82:7 83:3 74:3 10:3 54:1
+376 technology 64:70 39:33 26:29 9:12 7:10 78:2 85:1
+377 considers 97:4 28:1
+378 science 86:11 81:3 65:3 41:3 57:2 77:1
+379 meanings 11:3 48:1
+380 socially 66:5 16:3 15:2 94:1
+381 constructed 53:3 45:3 18:2
+382 discourse 37:13 81:1
+383 guide 38:2 45:1 26:1 71:1 7:1
+384 new 77:46 63:35 71:34 97:17 88:5 76:4 86:2
+385 technologies 71:74 44:43 37:12
+386 actors 39:41 88:6 17:2 24:1 82:1
+387 interested 88:6 28:2 92:1 8:1
+388 technological 44:19 63:13 25:8 29:5
+389 innovations 12:8 54:6 78:2 48:1
+390 meaning 49:7 54:1 31:1
+391 cases 0:25 93:2 49:2
+392 discourses 53:4 15:3
+393 viewed 76:5 54:1 94:1
+394 lead 36:6 63:2 37:2 5:2 24:1 4:1
+395 consensus 63:3 78:1 28:1
+396 closure 53:2 23:1
+397 attained 6:3 39:1
+398 widespread 97:2 44:2
+399 open 39:11 70:1 30:1 20:1 59:1
+400 novel 91:10 48:3 90:2
+401 contested 91:4 26:2 53:1 54:1 58:1 94:1
+402 groups 23:30 9:6 33:4
+403 struggle 77:6
+404 dominate 65:5 87:1 59:1
+405 influence 60:27 31:14 24:4 69:1 51:1 37:1
+406 despite 60:23 39:11 79:4 6:3 69:1 78:1 18:1
+407 fact 49:19 40:8 88:5 73:1 54:1
+408 indicates 97:3 53:3 71:1 60:1 7:1
+409 frames 52:37 21:1 91:1
+410 exploration 63:73 71:17 74:9 18:8 22:3
+411 highlighting 77:5
+412 threat 40:22 31:4 52:3 79:2 42:1
+413 narratives 39:23 52:1 44:1
+414 raise 81:1 53:1 38:1
+415 lack 63:35 44:4 28:2
+416 policies 71:30 81:17 38:15 49:4
+417 regulating 86:2 45:2 75:1 25:1 20:1
+418 activities 60:38 17:13 87:9 73:1
+419 emphasize 39:7 42:1
+420 growth 39:32
+421 security 97:52 76:18 74:15 86:4 4:3 79:1 88:1
+422 contrasting 53:3 50:2 28:2 51:1
+423 hand 49:13 16:9 10:3 52:2
+424 coalitions 53:2 59:1 67:1
+425 including 39:64 35:9 38:6 69:1
+426 community 55:34 9:15 37:10 63:1 40:1 26:1 83:1
+427 members 77:7 63:4 56:1 90:1 58:1 12:1 87:1
+428 private 15:22 22:5 42:4 16:4 64:2 52:1 95:1
+429 sector 26:21 76:16 50:8 16:2 66:1
+430 national 39:57 92:7 55:6 42:5 33:1 67:1
+431 contexts 38:8 63:6
+432 uncertainty 79:68 88:30 44:6 41:6 1:2 48:1
+433 comparative 34:3 23:3 49:2 52:1 80:1
+434 poland 64:79 72:43 88:31 70:5 76:2 52:1 1:1
+435 opportunities 66:27 97:20 74:6 45:2
+436 frame 52:8 39:2 17:1
+437 emphasizes 53:3
+438 depending 61:9 37:4 79:1
+439 russia 97:10 92:3 18:1
+440 evident 42:2 54:1 21:1 50:1
+441 countries 61:40 8:24 76:17 44:3 22:3 59:2 92:1
+442 goldthau 37:3
+443 sovacool 23:3 27:1
+444 highlight 31:16 34:1 2:1
+445 bridge 48:5 52:1 28:1
+446 fuel 64:11 48:10 39:5 41:2 87:1 7:1
+447 context 45:40 13:23 39:5 9:1
+448 contributed 54:3 80:1 2:1
+449 understanding 77:28 56:8 41:3 61:2 87:1
+450 employment 23:2 26:1 85:1 24:1
+451 limits 45:3 65:2 1:2 70:1 20:1
+452 inability 91:1 37:1 77:1
+453 compare 66:3 72:1
+454 conversely 39:5 35:2
+455 applicable 5:7 54:2
+456 variety 45:12 38:1
+457 consistently 15:3 37:1 5:1 89:1
+458 demonstrate 63:9 28:1
+459 investigates 83:1 26:1 38:1
+460 episodic 54:20
+461 differently 5:5 83:2
+462 subsequently 52:2 37:1 20:1
+463 opposing 63:2 43:1 17:1
+464 concerning 79:8 77:8 80:2 66:2 76:1 35:1 52:1
+465 attribution 52:3
+466 responsibility 65:4 54:2 51:1
+467 identified 37:16 63:6 15:4 36:1 78:1
+468 emphasis 77:9 45:3 1:2
+469 isolated 52:2 31:1
+470 events 0:17 60:2 15:2
+471 lens 39:8 26:1
+472 experience 60:22 98:15 11:7 64:3 52:2 19:2 34:1
+473 focus 49:33 94:4 64:4 21:4 34:1
+474 overarching 52:2 5:1 23:1
+475 background 44:4 35:1 20:1
+476 society 64:17 35:11 1:8 76:3 55:2 58:1
+477 societal 63:7 21:7 13:3 65:1 25:1 61:1 20:1
+478 causes 0:8
+479 problems 45:22 84:4 37:3 70:2
+480 exposure 35:14
+481 communication 63:25 79:6
+482 said 14:18 45:9
+483 television 52:4
+484 strongly 52:1 86:1 4:1
+485 reliance 54:4 30:1 80:1
+486 comparison 74:9 63:2 51:2 9:2 14:1
+487 somewhat 65:1 74:1 19:1 89:1
+488 begun 28:2 34:1
+489 pipeline 98:4 54:1
+490 dominated 52:5 8:1
+491 application 79:15 97:10 94:1
+492 applied 69:5 33:4 61:3 54:1 47:1 80:1
+493 earthquakes 0:4
+494 area 60:13 97:12 23:11 49:5 84:1
+495 common 18:15 31:12 56:2 8:2 11:1
+496 local 66:86 9:59 16:29 45:14 14:8 46:2
+497 relied 35:9 85:1
+498 given 97:28 75:15 18:5 80:3 45:3 79:2
+499 nationally 52:3 4:1 94:1
+500 posed 53:2 46:2 12:1
+501 appear 38:7 39:1
+502 theory 78:5 98:3 64:3 45:2 31:1
+503 posits 54:1 46:1 60:1
+504 set 38:21 34:9 55:4 29:2 39:1
+505 prominence 52:3 20:1
+506 perceive 98:6 38:1
+507 important 77:39 4:18 34:17 26:12 24:12 69:7 31:3 55:1 41:1
+508 essence 54:2 74:1 98:1
+509 priorities 74:11 67:10 53:1 97:1 51:1 35:1 55:1
+510 press 97:2 42:2
+511 thought 35:8 38:1 14:1
+512 play 39:22 38:5 58:1
+513 role 39:27 49:8 26:6 44:5 31:5 74:2 78:1
+514 formation 37:6 54:1
+515 indicators 70:2 52:2 86:1 37:1
+516 frequency 54:4 14:1
+517 cues 37:4
+518 number 97:21 15:14 0:13 58:4 9:2 84:1 98:1
+519 inclusion 97:3 74:2 53:2 45:2 60:1
+520 particularly 98:10 24:10 70:9 60:8 85:4 52:2 11:2 86:1 82:1 96:1
+521 considering 4:3 89:2 83:2 40:2 20:2
+522 nature 15:33 1:6 49:2 23:2 4:1 89:1 56:1
+523 characteristic 23:4 52:1
+524 relative 45:3 31:3
+525 impact 63:25 24:12 0:5 10:2 53:1
+526 position 11:13 3:7 82:1
+527 organizations 94:4 65:3 84:1 66:1 33:1
+528 attributes 11:2 83:1 82:1
+529 relevant 8:9 97:8
+530 includes 34:13 36:3 19:1 11:1
+531 newspapers 52:11
+532 websites 54:2 66:1
+533 remain 11:8 76:3 54:3 38:1 26:1
+534 central 44:11 61:6 37:6 69:2
+535 source 0:29 39:10 86:4 33:1 8:1
+536 european 40:40 36:20 58:17 76:3 74:2 70:1 8:1
+537 anti 52:5 73:4
+538 narrative 17:8 27:6 70:5 37:3 33:2
+539 clean 53:5 25:4 96:3
+540 oppositional 65:3
+541 paid 53:3 41:1 6:1
+542 observed 37:17 40:3 63:1 24:1 95:1
+543 increases 35:7 12:5 1:3 54:1 47:1 24:1
+544 sparked 4:2 39:1
+545 incidents 49:5 55:2 65:1 60:1
+546 alongside 30:2 52:1
+547 focused 53:5 4:5 54:1
+548 mobilizing 54:2 1:2
+549 movements 37:2 52:1
+550 analysis 39:43 49:23 33:5 10:2 9:2 99:1 32:1 56:1
+551 gain 49:4 8:2
+552 readily 60:1 76:1 20:1 0:1
+553 available 49:11 79:7 55:2 1:1
+554 later 77:14 18:1
+555 make 39:34 18:3
+556 past 45:10 58:2 13:2
+557 selection 16:7 42:1 9:1 5:1
+558 categories 89:6 52:5 98:1 60:1
+559 chosen 45:5
+560 indicated 78:2 52:1 46:1
+561 surrounded 49:3
+562 relates 15:2 45:1
+563 selected 97:8 9:6 83:2 37:2 80:1 66:1
+564 developed 37:14 13:5 63:4
+565 consultation 66:24 69:2 23:2 51:1
+566 advocates 50:3 52:2
+567 positive 0:7 80:4 67:3 21:2
+568 economy 89:5 74:4 5:3 75:2 70:2
+569 creation 83:4 69:3 15:3 31:2 53:1 65:1
+570 jobs 95:5 37:3 60:1 85:1
+571 prospect 48:4 52:1
+572 additional 23:8 14:5 42:1 87:1
+573 highlighted 89:9 7:3 55:2 35:1 11:1
+574 development 98:163 60:151 27:4 80:2 35:2
+575 communities 66:71 9:23 88:4 63:3 45:2 47:1
+576 operate 60:10 4:5 58:1
+577 cleaner 98:2 16:1 61:1
+578 revenue 28:4 29:1
+579 taxation 88:4 37:2 61:1 55:1
+580 discuss 37:12 40:4
+581 royalties 88:2 52:2
+582 real 77:8 37:2 99:1 79:1
+583 estate 41:10 51:1
+584 gains 37:4 52:1
+585 general 0:28 78:5 65:2
+586 additionally 16:14 33:2
+587 emerged 77:8 78:6 0:1 94:1
+588 preliminary 16:4
+589 transcripts 54:15 56:6
+590 included 15:19 16:6 52:5 3:3 77:1
+591 relate 37:4 6:1 20:1 97:1
+592 health 35:49 8:3 7:1
+593 strategic 97:20 18:1
+594 industry 34:65 13:55 77:30 9:25 99:2
+595 compelling 49:2 78:1
+596 environmentally 53:3 42:3 39:1
+597 friendly 54:2 64:1
+598 obtained 16:6 77:2 39:1
+599 form 34:21 44:12 77:2 92:1 33:1 41:1
+600 sedimentary 85:3 53:1
+601 capture 38:11
+602 discussions 93:4 19:4 54:2 4:1
+603 claimed 77:4 89:3 35:2 53:1
+604 greatly 11:5 14:3 1:2 35:1 63:1
+605 argue 23:14 86:2 70:1 68:1
+606 practice 8:10 75:4 86:3 83:2 11:1
+607 chemicals 28:4 56:3 14:1 19:1
+608 underground 60:8 1:6 52:1
+609 contaminated 35:12
+610 experiencing 53:2 14:1
+611 discussion 69:18 88:8 14:2 51:1
+612 road 46:8 23:4
+613 damage 0:9 11:2
+614 traffic 0:3 45:2
+615 findings 14:13 39:9 11:3 71:2 58:1
+616 noted 77:15 53:1 80:1 9:1
+617 york 37:2 26:1
+618 pennsylvania 55:12 8:2 15:1
+619 consequence 0:8 7:2
+620 reflecting 76:4 53:2 71:1 37:1
+621 created 44:7 97:5 93:5 88:1 29:1 24:1
+622 interviews 14:8 88:4 72:4 46:2 0:2 87:1 34:1
+623 risks 98:84 0:67 29:4 63:2
+624 human 54:4 46:4 29:4 52:1 20:1
+625 vital 25:2 74:1 37:1 32:1
+626 shape 45:8
+627 bringing 8:3 70:1 30:1 0:1
+628 perspectives 36:5 9:3 21:2 52:1
+629 bear 95:2 54:1 35:1
+630 scholars 34:4 23:3 58:2 55:2
+631 shaping 69:2 54:1 30:1 17:1 0:1
+632 merely 44:8 65:1
+633 positions 36:5 17:2 80:1 52:1 15:1
+634 words 45:8 48:3 72:1 20:1
+635 deliberately 27:4 54:2 38:2 95:1
+636 strengthen 23:3
+637 powerful 58:11 38:6
+638 regulatory 24:189 35:1 99:1 6:1
+639 bodies 38:6 23:6 85:1
+640 epa 35:1 8:1 40:1
+641 order 15:30 77:19 78:6 69:3 22:1
+642 ensure 35:5 22:4 95:2 52:1
+643 diverse 13:4 36:2 35:2 11:2 14:1 48:1 78:1 93:1
+644 expressed 4:20 14:9 21:2 84:1 40:1 13:1
+645 data 86:28 88:15 0:4 77:1 31:1
+646 academic 38:6 29:5 15:4
+647 search 88:4 53:3 97:2
+648 conducted 0:21 41:3 98:1 47:1
+649 transcript 54:4 53:1 35:1
+650 returned 63:3 53:1 34:1
+651 collected 53:1 80:1 1:1
+652 collect 22:2 9:2 52:1
+653 year 44:9 21:8 35:5
+654 period 77:18 97:5 12:3 94:1
+655 network 52:8 24:3 91:2 85:1
+656 appeared 37:5 14:2
+657 coders 52:5 14:3
+658 fit 38:5 17:2 84:1
+659 removed 16:3
+660 refer 60:4 91:3 28:3 47:2
+661 time 88:27 31:27 95:11 20:8 46:3
+662 led 77:8 16:5 2:3 41:2 15:2 37:1 60:1
+663 coded 54:7 16:5 56:3 74:1
+664 unit 61:1 54:1 75:1 45:1
+665 coding 52:5 46:4 1:3
+666 instructed 53:3
+667 read 53:1 78:1 18:1
+668 code 37:3
+669 presence 76:4 53:2 33:2 34:1
+670 absence 28:4 35:2 92:1
+671 finally 75:9 57:4 16:4 20:2 42:1
+672 assessment 20:9 93:7 58:4 3:4 53:3 1:3 24:1
+673 assessed 49:6 1:3
+674 descriptive 70:2 54:1
+675 mentions 54:3
+676 method 47:16 49:2
+677 multi 11:7 97:3 22:3 86:2 59:1
+678 estimates 85:27 71:4 25:3 93:2 72:2 55:2 99:1 52:1 28:1
+679 post 39:9 70:1
+680 historical 38:7 30:3
+681 point 49:32 41:4 26:4 80:1 85:1
+682 scale 60:30 17:8 95:4 26:2
+683 inform 15:3 98:2 54:2 42:2
+684 presenting 53:3 9:1
+685 actual 0:18 15:1 4:1
+686 proposed 60:26 93:1
+687 job 53:6 37:5
+688 value 16:23 99:1 96:1
+689 foreign 64:12 76:9 8:4 84:2 48:1 69:1
+690 investments 87:5 29:1 54:1 71:1 51:1
+691 threats 7:34 72:3 54:1 89:1
+692 wildlife 45:2 8:1
+693 indicating 76:3 54:1 80:1
+694 explicitly 44:4 54:1 47:1
+695 speaking 54:2 69:1
+696 categorized 39:2 54:1
+697 government 34:63 44:52 55:29 5:1 68:1
+698 outside 97:16 55:3 93:1
+699 citizens 67:11 52:5 18:4 13:4
+700 activists 93:7 54:2
+701 journalists 52:2 54:1 44:1
+702 final 36:8 99:1 5:1
+703 decision 60:106 74:15 36:1
+704 recorded 65:1 57:1 9:1 51:1
+705 references 53:1 7:1 37:1
+706 reflected 76:3 65:2
+707 discrete 65:2 81:1 69:1 58:1 89:1 82:1
+708 broader 39:10 78:8 34:3 86:1 38:1
+709 expert 16:17 25:1
+710 institutional 64:29 13:19 36:15 11:8 10:4 49:2
+711 seen 37:7 24:7 53:5 46:5 78:4 72:1 93:1
+712 equally 20:7 54:2 4:2 72:1
+713 lacked 35:2 71:1
+714 determine 45:6 50:1 27:1
+715 reliability 79:3 53:3 47:2
+716 subset 52:2 27:1
+717 test 54:5 61:3 8:2 74:1 38:1
+718 resulted 16:6 0:2
+719 low 15:34 64:15 89:5 80:2
+720 scores 72:3 64:2 52:2
+721 values 0:25 61:10
+722 operational 98:8 45:4 3:1
+723 definitions 39:2 28:1
+724 improved 31:3 13:1
+725 changes 63:19 21:14 52:2 51:2
+726 separate 37:3 75:2
+727 representing 81:1 17:1 94:1
+728 sample 0:3 2:2 37:1
+729 calculate 47:3 73:1 52:1 69:1 33:1
+730 asked 37:12 98:3
+731 differed 52:7 46:1
+732 explaining 92:3 39:1 0:1
+733 revealed 37:9 15:2 21:1
+734 significant 86:28 44:13 66:4 38:4 67:1
+735 main 74:14 11:14 77:9 73:6 4:1 19:1 22:1
+736 hoc 18:2 54:1
+737 significantly 52:9 31:6 89:5 17:1 72:1 41:1
+738 prominently 36:2 53:1 86:1
+739 addressed 77:5 16:2 74:1 83:1 60:1
+740 cross 69:5 52:2 76:1
+741 tabs 53:3
+742 difference 45:10 35:2 7:1
+743 table 97:25
+744 supported 31:11 8:1
+745 proportion 52:7 19:1
+746 thematically 52:3
+747 varies 35:4
+748 suggests 45:28 0:1
+749 varied 93:1 65:1 77:1
+750 exception 49:4 26:2
+751 respectively 54:6 72:3 99:2 24:1 22:1
+752 fewer 35:3
+753 utilization 74:4 0:3
+754 similarly 39:5 77:4 0:3
+755 featured 52:5
+756 higher 61:14 46:9 37:5 97:2 69:2 32:1
+757 officials 92:3 46:3 63:2 52:2
+758 frequently 86:9 35:2
+759 goal 74:11 39:9 86:2 68:1
+760 contentious 52:2 86:1 38:1
+761 explore 60:8 41:2 52:1 48:1 63:1
+762 breadth 53:2 98:1
+763 suggest 15:6 91:4 86:4 22:4 27:2 52:1
+764 effort 20:2 87:1 54:1
+765 terms 39:28 89:9 98:4 84:2 83:1 35:1 3:1
+766 utilizes 83:1 61:1 42:1
+767 prime 82:2 52:1 86:1 21:1
+768 providing 0:9
+769 party 77:10 73:1
+770 showed 0:2 54:1 72:1
+771 details 38:4
+772 taken 44:12 16:6 7:6 38:4 39:1
+773 apparent 69:6 65:4 56:1
+774 explained 0:2 62:1
+775 explain 83:3 84:2 24:2
+776 receive 31:8 21:1
+777 needed 15:5 52:2
+778 objective 39:6 10:2
+779 assessments 1:9 21:6 63:2 53:1 13:1
+780 expected 0:7 72:5 81:2
+781 demonstrating 51:2 52:1
+782 locally 88:6 22:3 80:1 41:1
+783 affected 14:25 66:8 37:2 26:2 94:1
+784 larger 16:7 17:6 14:2 99:1 66:1 45:1 75:1 76:1
+785 experiences 3:6 66:5 16:1
+786 help 69:8 85:6 0:3 72:1 50:1 21:1 17:1
+787 face 49:3 74:2
+788 place 15:41 9:16 58:6 38:2 52:1 25:1 8:1 78:1
+789 consequently 70:4 54:1 74:1 7:1
+790 distance 46:3 0:1 58:1 18:1
+791 type 54:6 34:4 85:3 76:3 36:1
+792 leads 0:7 38:1 11:1
+793 consider 94:6 23:2 39:1
+794 governmental 15:9 61:3 89:2 27:1
+795 considered 63:10 49:10 86:4 39:3
+796 control 63:21 33:2
+797 aligns 54:4 11:1
+798 aimed 12:4 48:1 36:1 88:1
+799 addressing 49:4 64:2
+800 note 77:13
+801 majority 15:7 97:4 35:4
+802 predominantly 27:2 52:1 64:1
+803 elements 13:12 76:7 92:3 49:2 15:1
+804 effective 39:14 38:3 51:1 41:1
+805 attitude 10:3 53:1
+806 beneficial 35:5 3:2
+807 producers 50:2 83:1 16:1 10:1 55:1
+808 align 45:4
+809 balanced 8:2 83:1 80:1
+810 heavy 31:3 16:2
+811 dealing 31:5 90:1
+812 heavily 54:1 46:1 94:1
+813 essentially 92:5 37:3 27:1 41:1
+814 relations 77:11 4:2 99:1
+815 materials 97:6 60:1
+816 distributed 70:3 56:3 41:3 33:1
+817 appears 23:6 39:5 52:1
+818 disproportionately 52:2 50:1
+819 compared 16:14 0:3 87:2 56:2 45:1 26:1
+820 substantially 3:3 16:2 77:1 96:1
+821 line 49:4 59:3 20:3 88:2
+822 began 35:6 30:1
+823 business 45:7 17:4 60:3 31:3 40:1
+824 strategy 21:20 97:14 16:2 57:1 71:1 80:1
+825 arguments 80:6 83:2
+826 intensified 78:4
+827 inherently 40:1 28:1 44:1
+828 problematic 37:8
+829 path 26:14 87:3 82:2 45:2 13:2 63:1
+830 exclusively 83:2 59:2 45:1 64:1
+831 placed 91:4 74:3 37:3 89:2 34:1
+832 hazards 23:3 10:1
+833 bias 86:1 54:1 92:1
+834 attempting 69:4 28:2
+835 appeal 74:2 55:2 54:2
+836 base 17:4 96:2 38:2 11:2 80:1
+837 unfortunately 54:2 47:1 5:1
+838 types 56:8 76:4 94:2 64:2 39:2 7:2 12:1
+839 reaching 37:3 4:3 76:1
+840 great 45:17 46:1 33:1
+841 hold 78:3 66:2 46:2 53:1 14:1 1:1 61:1
+842 incomplete 77:1 48:1 27:1
+843 deeper 44:8
+844 divisions 52:3 89:1
+845 informed 37:9 82:1 93:1
+846 perception 46:10 26:2 52:1 27:1 88:1
+847 importance 13:13 16:9 22:1
+848 judgment 35:3
+849 choice 74:14 39:4 63:3 86:1
+850 utilize 81:2 36:1
+851 easily 39:3
+852 accessible 3:3 54:1
+853 instead 84:6 44:6 75:4 37:4 73:3 81:1
+854 technical 34:18 84:6 66:1
+855 need 23:6 61:5 5:3 93:2 56:2 3:2 20:1 82:1 21:1
+856 clear 0:11 55:4 7:3 73:2
+857 enhancing 24:3 67:1 54:1
+858 contributing 60:4 77:2 0:1 46:1
+859 perceived 14:42 31:9 69:3 52:1 81:1 73:1 51:1
+860 credibility 29:6
+861 variations 8:5
+862 indicate 71:2 54:1 98:1 37:1 22:1
+863 giving 36:3 60:2 73:1
+864 voice 80:2 65:2
+865 select 72:4 47:3 39:1
+866 seeking 42:2 37:2 49:1
+867 shown 75:3 63:3 23:2
+868 roles 22:2 54:1 36:1
+869 determining 75:2 37:2 84:1
+870 dominant 30:3 50:2 27:2 92:1 8:1
+871 construct 65:1 87:1 77:1
+872 desired 97:4 89:2
+873 politicians 92:2 52:2 17:1 94:1
+874 suggesting 98:4 66:1
+875 elite 53:1 69:1 33:1
+876 abundant 70:7 80:3 45:1
+877 summary 69:2 44:1 60:1
+878 division 53:1 10:1 67:1
+879 understood 15:4 77:3 18:3 58:2 52:1
+880 raises 86:1 78:1 24:1
+881 questions 9:12 38:10 44:5 14:4 68:1
+882 purpose 49:5 40:1
+883 journalism 53:2 83:1
+884 core 31:2 52:1
+885 works 91:11 69:8
+886 quality 16:20 31:2 98:1
+887 reliable 9:3 35:2
+888 believed 35:2 17:1
+889 enable 12:5 66:2 30:2
+890 free 0:2 5:1 27:1
+891 self 97:9 14:5 81:1 54:1 87:1
+892 governing 26:4 1:3 65:1 89:1
+893 life 37:5 56:4 72:3 40:1 66:1
+894 aims 0:12 35:3 78:2 69:1
+895 draw 63:5 65:1 61:1
+896 conclusions 16:8 79:3 70:2 44:1
+897 views 35:8 11:8 94:4 9:1
+898 incorporate 77:2 24:1
+899 testing 45:6 49:1
+900 strategies 39:18 64:11 95:7
+901 suggested 22:4 39:1 75:1 38:1 16:1 98:1
+902 interests 38:20 16:4 5:3 97:2 7:2
+903 range 44:20 77:5 67:4 11:1
+904 effectiveness 22:3 39:1 76:1
+905 challenges 11:15 58:1 3:1
+906 promises 91:1 83:1 18:1
+907 choices 84:19 85:2 54:1 79:1
+908 responsible 37:5 80:1
+909 generally 49:16 34:2
+910 continues 66:2 53:1 83:1 59:1
+911 rise 65:3 75:2 69:2 24:2 5:1
+912 analytic 72:2 36:2
+913 hierarchy 74:10
+914 ahp 74:16
+915 alternative 74:49 89:2 13:2 69:1 30:1 11:1
+916 achieving 97:7 44:1
+917 possible 58:12 47:11 40:8 98:4 88:4 21:3 44:1 31:1
+918 alternatives 74:29
+919 domestic 76:34 58:9 24:7 69:1
+920 diversification 74:8 58:1
+921 supply 97:18 72:11 78:4 27:2 70:1
+922 maintaining 74:5 30:1 76:1 89:1 55:1
+923 status 47:17 15:2 31:1 44:1 68:1
+924 quo 99:9
+925 comparisons 72:10 80:1
+926 responses 74:9 34:4 76:1
+927 meet 4:7 78:4 61:3
+928 consistency 74:5 72:1
+929 criteria 74:39 79:4 86:1 29:1 65:1
+930 largest 72:8 31:7 84:3 21:1
+931 models 79:6 74:5 87:3 9:1 94:1
+932 supporting 76:2 0:1 94:1
+933 mining 69:8
+934 model 74:7 24:6 29:3 71:1
+935 second 15:32 74:6 12:4
+936 preferred 74:4 96:1
+937 favorable 80:5 88:2 69:2 87:1 9:1
+938 assess 60:4 89:2 44:1 40:1
+939 multiple 15:19 9:9 23:2 74:1
+940 qualitative 73:3 72:2 76:1
+941 factors 11:19 98:9 72:7 76:6 15:2 56:1 12:1
+942 priority 74:7 81:4 86:2 3:1 27:1
+943 adequate 47:4 66:3 3:1
+944 stabilizing 69:2 85:1
+945 guarantees 74:2 1:1
+946 sufficiency 72:5 38:1
+947 measured 7:5 47:1
+948 ratio 47:6 70:1
+949 consumed 72:3 36:2
+950 britain 44:2 74:1 13:1
+951 germany 63:11 78:2
+952 indicator 86:3 20:1
+953 union 79:8 86:4 40:3 85:2
+954 relatively 61:5 22:4 18:4 95:3 49:1
+955 dependency 91:6 4:3 60:2
+956 imported 76:14
+957 coal 64:20 47:18 60:13
+958 primary 31:12 1:1
+959 generated 1:8 23:7 60:4
+960 electricity 76:4 47:4 42:2 26:1
+961 highest 72:11 9:2 82:1
+962 share 4:14 1:1
+963 generate 4:5 13:3 64:1
+964 burning 74:7 57:4 71:1
+965 feedstock 74:9
+966 lignite 74:5
+967 renewable 76:20 89:15 34:5 30:2 23:1
+968 nuclear 89:95 74:12 67:4 57:1 37:1
+969 power 97:37 78:30 1:18 64:17 47:2
+970 plant 74:4 19:1 89:1
+971 early 8:12 22:7 91:2
+972 decades 15:10 36:2
+973 diversified 4:4
+974 changed 30:3 5:2 76:1
+975 needs 15:12 38:4 71:3 0:2
+976 rates 81:4 37:3 41:2 70:1 76:1 11:1
+977 solid 57:5 74:2 40:2 61:1
+978 fuels 71:31 97:7 46:1
+979 wind 89:14 76:6
+980 represents 40:2 74:1 46:1 39:1 60:1
+981 internal 31:10 17:1
+982 single 47:7 3:6 11:2 60:1 4:1
+983 member 47:10 70:3 91:2 1:1 82:1
+984 country 61:51 72:18 31:16 41:4
+985 choose 71:3 92:1 49:1 88:1
+986 world 15:40 34:13 91:1 50:1 38:1
+987 importer 71:2 34:1 60:1
+988 imports 72:9 71:5 25:2 17:1
+989 satisfy 76:3 15:1
+990 consumption 15:7
+991 reach 61:6 44:1
+992 users 47:3 45:2 49:1 51:1
+993 efforts 34:12 87:7 51:3 6:1 23:1
+994 reduce 17:6 85:4 47:3 40:2 56:1 45:1
+995 greenhouse 40:8 34:4
+996 emissions 61:13 7:4 85:3 76:3
+997 balance 72:6 35:4 11:2 31:1
+998 conflict 60:8 72:2 35:1
+999 price 61:10 46:2 45:2 30:2 88:1 28:1
+1000 import 97:3 64:2 92:1 87:1
+1001 supplier 72:2 92:1 85:1
+1002 compromise 72:2 26:1
+1003 able 86:10 9:8 88:2
+1004 lower 34:13 97:3 10:3 70:1
+1005 vulnerable 56:2 34:2 51:1
+1006 safety 15:5 51:4 34:3 88:1
+1007 substantial 97:5 82:2 47:1 75:1
+1008 commission 86:11 79:10 91:2 28:1
+1009 adopted 4:5 96:1
+1010 implies 97:2 15:1
+1011 achieve 60:10 89:2
+1012 goals 97:9 50:5 15:4 71:1
+1013 formula 72:2 9:1 33:1
+1014 entails 86:1 7:1 66:1
+1015 efficiency 89:13 61:8 72:1
+1016 desire 74:1 50:1 39:1 9:1
+1017 diversify 58:2 70:1 72:1
+1018 witnessed 97:4 60:1
+1019 primarily 63:6 97:2 49:2 3:1
+1020 progress 3:4 24:3 87:2 48:1
+1021 sites 60:21 56:7 0:1
+1022 analyzed 88:2 72:2 85:1
+1023 scenarios 60:8
+1024 reduction 97:8 23:1
+1025 concluded 20:5 69:3
+1026 unlikely 44:3 76:1 15:1 5:1
+1027 optimistic 70:5 76:1 88:1 16:1
+1028 scenario 47:2 9:2 30:1 8:1
+1029 decreasing 3:2 99:1 98:1
+1030 dependence 72:11 38:10 1:4 65:1
+1031 roughly 61:5 48:1
+1032 unchanged 74:3
+1033 rapid 66:7 95:4 97:2 17:1
+1034 united 27:32 4:14 8:11 91:3 48:2
+1035 net 8:3 86:1 82:1
+1036 exporter 64:2 7:1 0:1 21:1
+1037 europe 58:20 75:19 97:16 92:5 31:3 2:2 17:1
+1038 industrial 21:9 22:3 16:1
+1039 oecd 45:4
+1040 households 60:4
+1041 experienced 98:4 3:3 66:2 2:2
+1042 erode 97:2 72:1
+1043 competitiveness 76:3 29:3
+1044 economies 34:8 13:1 21:1
+1045 successful 76:8 8:6 11:3 92:1 36:1
+1046 exploitation 4:25
+1047 improve 34:7 4:4 23:1
+1048 clearly 61:9 2:5 33:2 84:1
+1049 legal 40:16 3:13 11:7 51:5 31:4 25:1
+1050 guiding 74:2 40:1
+1051 prospecting 88:2 4:2
+1052 hydrocarbons 70:6 88:3 74:1
+1053 protecting 66:2 47:1 26:1
+1054 observers 69:2 86:1
+1055 sentiments 74:2 34:2
+1056 considerations 31:8 17:2 80:1 16:1
+1057 begin 84:2 99:1
+1058 promising 97:5 71:1
+1059 exceed 30:2 97:1
+1060 venture 72:1 24:1 86:1
+1061 applying 74:3 24:3 69:2 0:1
+1062 multifaceted 74:1 35:1 12:1
+1063 tangible 16:2 34:1
+1064 apply 47:4 8:4 35:2
+1065 analytical 70:5 61:4 97:3 93:1
+1066 tool 4:2 84:1
+1067 developments 22:30 97:6 24:3 95:2 70:1
+1068 transition 97:8 64:3 96:2
+1069 market 71:17 11:17 15:2 72:1 8:1
+1070 faced 15:4 45:1
+1071 render 6:3 74:1 96:1
+1072 earlier 7:3 44:2 4:1
+1073 applies 40:5 51:2 47:2 42:2
+1074 complex 63:12 38:8 60:5 74:4 70:1 45:1
+1075 debate 63:10 79:8 74:1
+1076 attempt 42:8 34:3 20:2
+1077 commercial 11:14 3:9
+1078 north 31:10 26:2
+1079 america 15:6 86:3 76:3
+1080 canada 27:11 98:5 85:1 9:1
+1081 estimated 25:7 97:4 20:1
+1082 meters 18:5 74:4 23:1
+1083 british 34:8 89:4
+1084 columbia 98:2 17:2 72:1
+1085 projections 70:5 74:1 71:1
+1086 alter 47:3
+1087 trends 76:2 69:1 45:1 50:1
+1088 trial 47:3 87:1 88:1
+1089 unprecedented 99:1 49:1 77:1
+1090 maintain 69:6 61:2 47:1 8:1
+1091 polish 71:47 88:14 99:5
+1092 baltic 74:2 4:2
+1093 direction 78:5 99:2
+1094 fig 48:9 97:5 35:2 67:1
+1095 consists 48:4 99:2 26:1 63:1
+1096 basins 27:2 23:2 72:1
+1097 quite 32:5 74:2
+1098 corporations 72:1 42:1 73:1 18:1
+1099 chevron 76:3 18:3
+1100 pgnig 71:2 99:1
+1101 actively 74:1 50:1 78:1 44:1 66:1
+1102 involved 34:36 44:5 69:2 2:1
+1103 conducting 47:3 46:1
+1104 shows 47:6 9:3 30:2 45:1
+1105 prepared 36:2 72:1 15:1 48:1
+1106 describing 44:4 97:1
+1107 character 97:3 70:3 22:1
+1108 drawing 86:3 6:1 44:1 9:1
+1109 regions 60:13 56:3 85:2 73:2 36:1
+1110 assumptions 16:1 95:1 88:1
+1111 conditions 4:8 88:7 76:4 38:2 84:1 67:1
+1112 affect 34:20 67:2
+1113 monitoring 60:4 2:3 92:1
+1114 drinking 46:5 4:3 83:1
+1115 standards 24:13 72:1
+1116 waste 35:6 10:4 72:2 20:1 33:1
+1117 management 94:8 97:7 3:5 96:2 32:2 35:1 42:1
+1118 studied 79:3 47:2 50:1 34:1
+1119 offered 64:4 76:1
+1120 reducing 86:5 69:2 38:1
+1121 complexity 31:11 27:2 72:1 91:1 19:1
+1122 require 24:5 4:5 12:4 30:2 76:1
+1123 investment 64:16 69:14 60:3 87:2
+1124 modernize 76:3
+1125 plants 76:15 35:1
+1126 offers 81:4 74:4 38:3 36:3 46:1
+1127 reached 20:3 30:2 84:1
+1128 levels 31:13 11:10 17:7 56:5 50:5 44:3 78:1
+1129 return 76:1 64:1 71:1
+1130 received 46:6 66:2 3:2 99:1 86:1 67:1
+1131 bln 74:3
+1132 pln 61:3 45:1
+1133 requires 86:11 76:11 66:1
+1134 nearly 60:5 35:3 13:2
+1135 generating 16:4 75:2
+1136 equipment 16:2 27:1
+1137 old 46:68 72:1 95:1
+1138 older 76:3
+1139 times 61:5 19:2 72:1
+1140 institute 4:5 74:1 70:1 64:1 49:1
+1141 approximately 56:2 31:2 10:2 4:2 21:1
+1142 july 5:3 72:1 85:1
+1143 exchange 61:6 74:1 49:1 18:1
+1144 rate 63:3 74:2 61:1 50:1 75:1
+1145 implementation 15:7 74:2 44:1
+1146 replacing 6:2 99:1 78:1
+1147 assuming 74:2 71:1 39:1
+1148 built 15:7 74:2
+1149 paper 69:17 34:16 78:3 70:3 63:1 26:1 98:1
+1150 structured 61:3 46:3 98:1
+1151 follows 86:2 45:2 38:1 20:1 23:1
+1152 section 97:20 61:8 39:6 2:4 46:2 71:1
+1153 describes 72:4 51:1
+1154 preferences 91:4 97:3 71:2 51:2 79:1 4:1
+1155 calculations 4:8 70:2
+1156 weights 74:5
+1157 tree 72:4
+1158 calculation 70:9 74:6
+1159 numerical 74:10
+1160 followed 55:6 4:4 66:2 81:1 5:1
+1161 methods 61:14 6:6 46:1 9:1
+1162 best 74:13 11:8 75:6 5:3 81:1 34:1
+1163 involves 47:7 61:6
+1164 numerous 66:8 76:2 26:1 25:1
+1165 quantifiable 74:3 7:1 18:1
+1166 identifying 97:9 81:1
+1167 establishing 32:4 22:2 36:1 45:1
+1168 solution 24:4 47:1
+1169 account 76:4 85:2 32:2 3:2 12:1
+1170 psychological 10:3 34:1 49:1
+1171 reasons 15:14
+1172 procedure 40:4 63:2 74:1
+1173 comprehensive 3:4 47:3 26:1 7:1 9:1
+1174 group 60:6 88:5 74:2 72:1
+1175 right 33:5 60:4 40:4 97:3 92:3
+1176 perform 98:1 99:1 49:1 78:1
+1177 criterion 74:29 79:2 43:1
+1178 makers 97:13 86:8 63:3 55:1 28:1
+1179 case 69:29 24:15 76:8 13:6 61:3 20:2
+1180 sub 74:33 26:5 66:1
+1181 judgement 4:3
+1182 series 22:5 99:2 78:2
+1183 pairwise 74:7
+1184 distinguishes 7:3 45:1
+1185 tools 69:9 58:1
+1186 verified 4:4
+1187 respondents 72:8 4:2 76:1 57:1 38:1
+1188 fail 24:2 74:1 84:1
+1189 omitted 4:4 20:1
+1190 assigned 74:9
+1191 weight 74:24 77:1
+1192 computer 74:2 33:1
+1193 software 72:7 33:1
+1194 varying 40:3 13:1
+1195 evaluations 74:1 1:1 32:1
+1196 observations 47:4
+1197 meeting 9:27 89:4 15:4 51:1
+1198 lastly 98:2 61:2
+1199 aided 72:1 27:1 3:1 51:1
+1200 matrix 86:3 97:2
+1201 fundamental 97:6 80:1
+1202 permits 5:2 47:1 26:1 42:1
+1203 maker 95:2 75:2 74:2
+1204 element 13:4 74:3 58:2
+1205 prevails 79:2 31:1
+1206 express 10:4 74:1 20:1
+1207 weak 76:4 98:2 61:1
+1208 advantage 74:7 17:3 91:1
+1209 extreme 38:2 74:1
+1210 corresponding 76:4 17:1
+1211 function 75:12 61:1
+1212 subject 86:9 16:4 94:3 78:2 50:2
+1213 determines 75:2 74:1
+1214 fourth 76:6 61:1 15:1
+1215 implemented 0:4 71:1 40:1 15:1
+1216 empirical 61:13 26:2 38:1
+1217 involving 61:5 89:2
+1218 specified 76:3 55:1
+1219 planning 22:27 97:10
+1220 building 97:13 81:2 61:2
+1221 sustainable 55:4 38:4 87:2 71:2 74:1 64:1
+1222 outsourcing 64:2 99:1
+1223 literature 24:52 14:5 74:2 88:1
+1224 critical 31:20 58:4 8:4 36:3 60:1
+1225 yielded 49:4
+1226 survey 47:7 44:3 61:2 31:1 22:1
+1227 developing 3:11 58:4 26:1 57:1 83:1 96:1 9:1
+1228 academia 76:3
+1229 participants 56:83 14:6 10:2 64:1
+1230 university 83:1 47:1 61:1
+1231 geological 1:39 3:11 30:6 44:1
+1232 pig 74:2 69:1
+1233 seven 72:3 38:1
+1234 responded 80:2 76:2
+1235 instrument 82:2 74:1 26:1 7:1 50:1
+1236 interview 46:5 57:4 61:2 14:1
+1237 lasted 4:3
+1238 absolute 74:2 30:1
+1239 equal 74:3 48:2 61:1 45:1
+1240 solving 99:1 64:1 45:1
+1241 required 60:15 86:5 40:5 63:3
+1242 ranging 14:3 74:2 6:1
+1243 collection 97:4 39:2 89:1
+1244 calculating 0:2 48:1 70:1
+1245 completed 56:10 41:1 76:1 69:1
+1246 ultimately 34:3 15:2 8:1
+1247 uses 40:2 47:1 7:1 17:1
+1248 quantified 47:4 34:1
+1249 accounting 97:4
+1250 improving 64:3 74:2 94:1
+1251 tables 47:5 81:1
+1252 list 0:4 85:1 64:1
+1253 performed 40:2 3:2
+1254 merits 74:3
+1255 achieved 4:5
+1256 implementing 39:3 98:1
+1257 probable 74:1 85:1 65:1
+1258 occur 15:13 7:3 66:1 64:1
+1259 improvement 74:6 44:1
+1260 situation 9:21 45:8 97:1 47:1
+1261 correspond 76:3
+1262 aspect 74:4 20:4 26:1 97:1
+1263 international 8:21 61:8 79:6 67:4 70:2 45:2
+1264 stemming 68:3 84:2 47:1
+1265 stability 47:3 8:3 32:1
+1266 evaluate 97:5 98:2 45:1
+1267 pertaining 0:4 12:1
+1268 sets 92:2 76:2 45:1 86:1
+1269 classified 71:4 99:2
+1270 encompassing 72:1 97:1 94:1
+1271 calculated 48:4 74:2 93:1
+1272 supplies 58:6 48:6 27:6 99:3 98:1 76:1
+1273 far 0:14 38:8 7:5 20:2
+1274 limiting 60:6
+1275 essential 24:7 4:3
+1276 suppliers 47:8 15:2
+1277 uninterrupted 25:2 16:1 83:1
+1278 reflects 61:5 28:1
+1279 capacity 71:33 97:3 22:3 4:3
+1280 obtain 74:2 57:2 48:1 3:1
+1281 lng 74:5 98:1
+1282 terminal 72:4
+1283 swinoujscie 74:3
+1284 recently 94:8 8:4 48:2 76:1 6:1 1:1
+1285 strengthening 82:2 83:1
+1286 firms 64:30 34:3 4:1 51:1
+1287 engaged 1:3 5:2 76:1 23:1
+1288 exports 64:2 61:2
+1289 persistent 3:2 2:1
+1290 expectations 34:5 11:4 88:3 44:1
+1291 contribution 0:4 74:1
+1292 particular 69:49 77:2 24:1 15:1 4:1 50:1 65:1 31:1
+1293 resource 1:60 34:10 61:7 81:1
+1294 reservoirs 40:4 60:1
+1295 state 71:113 24:54 55:28 9:12 66:8 58:7 16:1 29:1
+1296 lobbying 78:5 74:1
+1297 mean 12:3 83:1
+1298 enabled 69:1 91:1 58:1 42:1 94:1
+1299 leading 17:8 74:3 59:1
+1300 step 79:5 60:3 6:1
+1301 product 35:2 47:1 25:1 71:1 67:1
+1302 allowed 63:3 4:3 56:1 34:1
+1303 respect 14:5 72:1 45:1
+1304 securing 80:1 47:1 42:1 38:1
+1305 generation 69:7 41:2 74:1
+1306 fully 15:7
+1307 dependent 47:3 77:2 34:2 26:2 24:1
+1308 expertise 97:11 71:1 63:1
+1309 attempts 47:4 27:2 24:2
+1310 abandoned 74:3 58:1
+1311 short 31:10 91:5 89:3 10:2
+1312 maintenance 99:3
+1313 inventory 72:2 91:1
+1314 costly 72:5 66:2
+1315 operation 16:3 22:2 88:1
+1316 continuous 85:3 99:1 71:1
+1317 contradict 86:3
+1318 notion 78:2 15:2 88:1 77:1 94:1
+1319 represent 31:4 72:1 61:1 49:1 5:1
+1320 company 9:23 55:12 49:2 63:1 47:1 27:1 50:1
+1321 governed 55:10 47:1
+1322 special 86:3 61:3 34:2 76:1
+1323 uncertain 69:13 85:6 40:1
+1324 transportation 56:2 72:1
+1325 storage 99:4 98:1
+1326 adding 76:3
+1327 fifth 83:2 16:1 40:1
+1328 option 97:4 74:1
+1329 forced 76:1 10:1 89:1 69:1
+1330 plans 87:5 22:3 74:1 63:1 29:1
+1331 ago 93:2 72:2 35:2
+1332 accident 96:2 23:1
+1333 japan 89:1 72:1 77:1
+1334 increasing 97:8 60:5 25:3 49:1
+1335 permitted 94:3 47:1
+1336 develops 76:2 84:1
+1337 program 9:2 76:1
+1338 solar 78:6 82:2 47:1
+1339 expansion 74:5 94:2
+1340 faces 47:2 66:1
+1341 newly 16:3
+1342 law 79:37 63:12 99:3 26:1 29:1 89:1
+1343 april 32:3 74:2 40:1 95:1
+1344 dramatically 74:1 1:1 29:1
+1345 slow 21:2 4:1
+1346 say 73:3 38:2 34:1 75:1 40:1
+1347 demanding 34:7
+1348 iii 97:1 59:1 3:1
+1349 assumes 72:2 59:1
+1350 meaningful 66:4 99:1 48:1 17:1 88:1
+1351 distribution 34:9 14:2 76:1 69:1
+1352 pipelines 98:6
+1353 receives 74:4
+1354 places 77:4 15:2 10:1
+1355 retaining 87:2 63:2 4:2
+1356 attractive 34:3 42:1
+1357 favor 71:4 80:1 15:1 64:1 76:1
+1358 proposes 86:1 94:1 16:1 2:1
+1359 cost 64:17 15:12 20:4
+1360 competiveness 86:2 77:1
+1361 pursued 15:5
+1362 allowing 76:5
+1363 carrying 0:2 32:1
+1364 deliver 65:2 47:1
+1365 entered 68:3 3:2 86:1
+1366 june 13:2 60:1 40:1 47:1 33:1
+1367 broad 11:11 99:1 46:1
+1368 create 76:5 1:5 63:3 94:1
+1369 permanent 34:2 38:1 5:1
+1370 characterized 39:2 33:1
+1371 income 15:7
+1372 inconsistent 47:2 74:1
+1373 recommendation 79:7 47:1
+1374 coalition 28:2 76:1 60:1
+1375 passed 66:7 86:2
+1376 modified 30:2 87:1
+1377 respond 61:2 24:2 18:2 89:1 86:1 66:1
+1378 protests 31:3 18:3 24:1
+1379 stresses 86:3 92:1 80:1
+1380 constraints 48:2 99:1 5:1 81:1
+1381 kingdom 8:6 97:2 20:2 50:1 41:1
+1382 advantages 77:2 31:2 33:1
+1383 size 34:6 57:1
+1384 extension 76:2 3:2 19:1
+1385 decline 21:5 87:2 74:1
+1386 persist 31:2 99:1
+1387 renders 16:2 35:1
+1388 sectors 50:5 45:4 78:2 87:1
+1389 monitor 51:1 0:1 16:1
+1390 benefit 86:4 14:4 67:3 0:2 78:1
+1391 highly 1:9 69:7 26:2 48:1 38:1
+1392 specialized 26:6 4:2 8:1 90:1 80:1
+1393 finding 20:4 0:3 55:1
+1394 easier 35:2 47:1
+1395 plausible 23:2 13:1
+1396 project 63:16 46:12 71:2 61:2 81:1
+1397 involve 34:6 50:3 94:1
+1398 expanded 27:3 21:1
+1399 researchers 39:10 73:4 10:4 41:1
+1400 outcomes 22:8 15:8 34:2 31:2 65:1 61:1
+1401 regional 13:4 34:3 58:2 37:1
+1402 chinese 98:18 38:3
+1403 attributed 49:4 82:1 56:1
+1404 formations 15:20 58:8 63:1
+1405 lacking 38:4
+1406 matter 91:5 77:3 1:3 57:1
+1407 industries 24:11 64:6 33:5
+1408 geology 84:5 88:3 58:1 40:1 37:1
+1409 regulation 24:55
+1410 settings 11:11 84:1
+1411 success 84:12 87:1 60:1
+1412 failure 87:3 26:3 67:1
+1413 article 24:18 75:9 61:5 40:2
+1414 governance 13:104 66:21 84:9 67:2 27:2
+1415 offer 91:10 63:4 70:1 44:1
+1416 insights 77:4 24:4 27:3 26:1 29:1
+1417 phenomenon 38:13 15:5
+1418 identifies 13:2 91:1
+1419 themes 38:3 9:2 92:1
+1420 contestations 84:2 36:1 22:1
+1421 socio 24:15 98:3 70:2 88:1
+1422 turns 91:2 26:1
+1423 assessing 86:11 36:3
+1424 regimes 38:29 24:2 41:1
+1425 competition 24:13 44:3
+1426 agencies 91:37 67:4 64:1 89:1
+1427 argued 75:8 70:4 77:3
+1428 investigating 92:4 73:1
+1429 focal 92:4 96:3 24:1
+1430 investigations 91:7
+1431 going 38:10 88:7 40:1
+1432 forward 75:5 80:2 42:1 7:1
+1433 introduction 75:2 27:1 19:1 55:1
+1434 soil 14:17 75:1
+1435 described 44:10 98:5 30:2 96:1
+1436 revolution 39:6 87:5 75:1 78:1
+1437 combination 98:5 85:3 13:3 15:1
+1438 tap 71:1 26:1 42:1 40:1
+1439 vast 97:7
+1440 eia 63:8 33:3
+1441 domestically 42:7 75:1
+1442 spread 36:6 57:1 38:1
+1443 eventually 79:3 26:3 60:2
+1444 hopes 85:4 61:1 82:1
+1445 hope 75:2 23:2 25:1
+1446 notably 38:13 61:3 64:1 55:1
+1447 continent 6:6
+1448 trillion 91:2 55:2
+1449 tcf 22:2 24:1
+1450 cumulative 91:2 39:1
+1451 come 24:7 1:4 98:1 70:1 84:1 30:1
+1452 proven 24:3 84:1 19:1 97:1
+1453 environments 86:2 45:1
+1454 origin 11:2 67:1
+1455 asks 15:2 82:1
+1456 exploring 63:11 24:1
+1457 obstacles 84:3
+1458 surrounding 66:10 13:9 20:3 57:2
+1459 transfer 26:9 64:5 33:2
+1460 identify 15:10 37:5 65:3 85:1
+1461 gaps 13:4 24:2 10:1 2:1 8:1
+1462 justify 87:4 26:1 39:1
+1463 prevalent 11:2 57:1
+1464 away 14:11 31:6 38:1
+1465 optimization 61:1 90:1 6:1
+1466 regulate 55:2 15:2
+1467 occurrence 13:2 20:1
+1468 scales 5:8 77:4 88:1
+1469 fails 91:1 42:1 13:1
+1470 variable 79:4 26:2 64:1
+1471 evolved 77:2 73:1
+1472 scarce 11:3 15:1
+1473 advancing 91:1 42:1 51:1
+1474 rapidly 92:3 59:1
+1475 scholarly 26:3 85:2
+1476 realm 26:3
+1477 sciences 24:4 14:1
+1478 address 44:13 56:4 86:2 83:1
+1479 overview 95:2 45:1 57:1
+1480 follow 5:4 15:2
+1481 claim 49:6 55:1
+1482 comprehensively 36:1 87:1 21:1
+1483 evolving 11:3 60:1 3:1
+1484 fast 31:1 35:1 66:1
+1485 cited 92:5 14:2 31:1 6:1 17:1
+1486 representative 73:4 86:1 87:1 80:1 60:1
+1487 purely 87:2 49:2 19:1 31:1
+1488 economics 77:5 78:1 67:1
+1489 hydrocarbon 6:4 24:3 19:3
+1490 decided 24:3 42:1 9:1 13:1
+1491 according 63:16 23:2 97:1
+1492 fields 1:5 44:3 35:1
+1493 exist 60:10 88:1
+1494 field 69:13 95:2 1:1
+1495 strand 26:7 17:3
+1496 concerned 46:15 48:12 20:3 13:2
+1497 means 86:8 8:7 55:3 15:3 22:2 96:1 48:1 20:1
+1498 nexus 26:2 59:1
+1499 broadly 24:3 94:2 60:1
+1500 tends 49:3 91:1 43:1
+1501 establish 66:3 49:3 86:2 57:1
+1502 firm 87:9 11:1 63:1
+1503 link 40:11 32:3 36:1
+1504 objectives 6:2 91:1 60:1
+1505 geo 70:5 24:1 64:1
+1506 body 51:11 38:10 46:1
+1507 margins 63:2 0:1
+1508 structures 24:13 96:4
+1509 growing 11:10 70:9 60:2 92:1
+1510 extends 24:3 66:1
+1511 representation 86:7
+1512 license 5:8 60:1
+1513 extract 23:11 71:5 58:2 15:1 11:1 2:1
+1514 evolution 24:3 91:1
+1515 seeks 24:3 44:1 50:1
+1516 explores 95:2 75:1 55:1
+1517 phenomena 49:2 32:2 34:1
+1518 innovation 64:102 24:5 89:2 45:1
+1519 participatory 9:5 66:3 75:1
+1520 availability 85:12 13:6
+1521 overlapping 98:3 26:1
+1522 centers 17:4 14:1
+1523 county 67:11 57:6 26:1 78:1
+1524 municipal 22:3 13:3
+1525 objects 49:4
+1526 property 60:14 13:2 75:1
+1527 dynamics 95:18 33:8 92:3 13:1 82:1
+1528 justice 55:44 24:2
+1529 approaches 77:16 11:7 15:1
+1530 western 98:4 92:2 43:2 6:2 10:1
+1531 obvious 75:4
+1532 reason 49:6 78:4 37:1
+1533 interesting 92:4 75:2
+1534 started 9:5 61:2 38:1
+1535 pertinent 90:3
+1536 conduct 49:2 6:2 10:1
+1537 demonstrates 63:3 24:3 37:1
+1538 exists 24:10 7:3 49:1 55:1
+1539 carried 5:4 75:2
+1540 whilst 41:9 91:2 95:1
+1541 eastern 91:3 71:2 45:1
+1542 possibly 15:5
+1543 comes 8:3 91:2 33:2 64:1 57:1
+1544 fiscal 11:4 24:2
+1545 leakage 7:6 92:1 35:1
+1546 incentives 11:14 64:10 89:2 76:1
+1547 scaling 84:8
+1548 happen 90:1 26:1 46:1 61:1 5:1
+1549 mere 91:2 40:2
+1550 contingent 80:4 91:3 73:1
+1551 interplay 24:3 42:1
+1552 institutions 71:37 92:3 13:3 1:3 26:2 7:1 33:1
+1553 matters 8:2 38:1
+1554 perspective 69:27 29:1
+1555 outcome 45:6 22:6 18:1
+1556 neglected 38:2 23:1
+1557 notable 46:1 36:1 75:1
+1558 mediated 33:3
+1559 takes 5:4 32:2 18:1
+1560 motivation 84:3 69:1
+1561 develop 38:7 63:6 94:3
+1562 elaborate 35:2 26:1 11:1
+1563 experimentation 91:5
+1564 design 26:9 98:5 89:4 14:2 85:1
+1565 interaction 21:5 9:2 57:1 38:1 66:1
+1566 rule 75:2 40:1 3:1
+1567 directly 46:8 66:5 38:5 91:1 40:1 24:1
+1568 scope 11:4 82:2 27:1 98:1
+1569 regime 38:35 50:14 21:2 76:1 64:1
+1570 processes 38:20 63:14 55:14 61:9 88:1
+1571 govern 92:2 60:2 75:1
+1572 arrangements 5:8 61:3 42:2 24:1 11:1
+1573 defined 49:4 18:1 88:1 24:1
+1574 ideas 24:2 70:1
+1575 typically 38:12
+1576 stakeholders 11:49 31:7 93:3
+1577 domain 27:15 91:3 70:3 94:1
+1578 normative 42:8 77:2 30:2
+1579 serve 15:3 91:2
+1580 lies 84:4 96:1
+1581 patterns 49:13 50:2 18:1
+1582 administrative 61:5 36:2 89:1
+1583 supranational 26:2 58:1
+1584 plays 70:5 46:2 33:2 13:1 0:1 51:1
+1585 considerably 89:1 20:1 40:1 55:1
+1586 necessarily 86:4 49:3 23:2 89:1
+1587 ones 45:2 84:1 97:1 44:1 34:1
+1588 acknowledge 40:1 59:1 5:1 76:1 68:1
+1589 inquiry 51:4 92:2
+1590 changing 31:9
+1591 relationships 3:6 13:2 47:1
+1592 mechanisms 84:7 50:6 51:2 64:1 59:1
+1593 conducive 84:3
+1594 crucial 89:10 12:6 73:3 11:2 70:1 7:1
+1595 joint 61:5 46:1 39:1
+1596 existence 40:8 33:7 71:4 58:4 27:2 26:2
+1597 helped 59:2 49:1 37:1
+1598 shared 73:7 39:2 84:1 32:1
+1599 vision 73:7 86:3 94:1
+1600 federal 13:19
+1601 prone 91:1 25:1 27:1
+1602 regulators 91:11 13:2 87:1 63:1
+1603 texas 24:8 41:3 8:1 22:1
+1604 railroad 77:3 67:1
+1605 landowners 34:4 13:1 47:1
+1606 subsoil 24:4
+1607 mineral 66:14 85:4 51:4 26:2
+1608 rights 66:23 67:8 24:7 37:3 14:1
+1609 establishment 75:4 64:1 66:1
+1610 wide 95:2 32:2 13:1 11:1 15:1
+1611 discretion 26:2 92:1
+1612 putting 49:2 89:1
+1613 frameworks 94:4 38:4 21:2
+1614 act 63:30 24:2 3:1
+1615 turn 24:12 27:7 48:2 47:2 6:2
+1616 features 38:5
+1617 characteristics 98:6 85:4 75:4 66:4
+1618 contrast 24:17 14:3 67:1
+1619 sufficient 13:7 97:1
+1620 aligned 71:3
+1621 federalism 26:4
+1622 starting 90:1 2:1 73:1
+1623 federalist 26:6
+1624 governments 34:15 15:6 36:2
+1625 democracy 36:5 24:3 86:1 55:1
+1626 impressive 95:3 48:2 92:1
+1627 investigated 75:4 2:1 36:1
+1628 measures 20:11 13:7 79:3 64:1 56:1
+1629 innovative 64:7 86:5 75:2
+1630 explicit 20:3 4:2 61:1
+1631 reference 8:9 40:3 60:2
+1632 cooperative 84:2 64:1
+1633 critique 66:2 90:1
+1634 left 91:4
+1635 authorities 13:7 93:2
+1636 regards 67:6 79:4 75:2
+1637 comply 0:1 71:1 55:1
+1638 requirements 64:7 45:2
+1639 entities 56:1 78:1 24:1 28:1
+1640 authority 63:6 42:5 13:4
+1641 parts 1:5 89:2 24:1 10:1 2:1
+1642 degree 38:12 98:4 66:1 46:1 86:1 11:1
+1643 managed 38:2 57:1 67:1
+1644 jurisdiction 23:2 91:1
+1645 ample 11:4 86:1 25:1
+1646 room 9:3 49:1 71:1
+1647 importantly 45:3 58:1
+1648 push 84:7 50:2 78:1 27:1 15:1 56:1
+1649 leverage 8:2 29:1
+1650 competitive 13:7 34:1 12:1 77:1
+1651 possibility 9:2 36:1 48:1 20:1 13:1
+1652 provisions 55:2 86:1
+1653 optimal 48:3 33:1
+1654 foster 42:13 13:4 49:1 80:1 32:1
+1655 prevent 84:3 82:1 21:1 80:1 89:1
+1656 produce 38:9 51:5 29:4 63:3 7:2 69:1 17:1 4:1
+1657 jurisdictions 11:12
+1658 prove 75:3 60:3 49:2
+1659 end 5:10 87:3 58:3 8:2 57:1 44:1
+1660 examples 17:3 56:2 24:1 9:1
+1661 diffusion 84:6 24:3
+1662 education 57:4 33:1
+1663 vertical 26:2 89:1
+1664 inevitably 0:4 13:2
+1665 geography 39:3 64:1
+1666 answer 9:9 24:2 91:1
+1667 assumed 1:3 26:2 77:1 58:1 93:1
+1668 profit 92:2 35:1 87:1
+1669 learning 57:4 26:4 5:1 41:1
+1670 pathway 24:4
+1671 failures 94:2 97:1
+1672 pose 8:7 91:1 79:1
+1673 widely 31:8 50:1 41:1
+1674 heterogeneity 66:8 24:2
+1675 contrary 38:2 5:2 23:1 7:1
+1676 warranted 75:2 7:1
+1677 puts 36:3 45:1 37:1
+1678 fulfill 91:2 64:1
+1679 oversight 24:5
+1680 empowering 92:1 98:1 63:1
+1681 avoiding 22:2 91:1
+1682 enjoy 36:2 46:1
+1683 history 91:10 70:2 41:2
+1684 ownership 51:9 92:6 80:1
+1685 rich 70:6 91:3 79:1
+1686 mode 36:3 88:2
+1687 politically 13:4 48:1 44:1
+1688 geopolitical 48:3 26:1 76:1 80:1 1:1
+1689 russian 61:3 91:1
+1690 emerge 24:10 73:5 38:1 82:1
+1691 audit 8:2 26:1
+1692 fostered 87:2 84:2
+1693 trend 93:2 26:1
+1694 traditionally 38:2 57:1
+1695 integrated 61:7
+1696 principal 92:3
+1697 empower 36:3
+1698 legislator 40:4 90:2
+1699 actions 15:7 37:3 38:2 42:1 36:1 34:1
+1700 gives 1:2 49:1
+1701 considerable 61:4 95:2 25:2
+1702 hierarchical 71:5
+1703 relationship 86:10 51:2
+1704 elected 24:5
+1705 turned 73:3 84:1 4:1
+1706 purposes 29:4 79:2 71:1 13:1 81:1
+1707 legislative 23:4
+1708 powers 77:5 3:2 91:1
+1709 referring 49:3
+1710 legislators 45:2 0:1
+1711 controlled 93:2 75:2 6:1
+1712 instruments 78:15 49:3
+1713 agents 85:4 38:1
+1714 mission 26:5
+1715 arguably 78:7 75:7 91:1 10:1
+1716 calling 80:2 75:1 73:1
+1717 dual 97:3 44:2
+1718 task 66:12 38:4
+1719 promotion 87:3 69:2 75:1 51:1
+1720 entry 97:6 36:1 2:1
+1721 vested 13:4 89:2
+1722 possesses 15:2 1:1
+1723 opens 49:4 86:1
+1724 door 61:2 93:1
+1725 effectively 27:5 51:2 91:1 63:1
+1726 accountability 24:4
+1727 fall 49:2 24:1 35:1
+1728 center 98:2 31:1 34:1
+1729 extent 49:16 8:5 9:4 91:1 17:1
+1730 live 46:8 9:3 49:1
+1731 fostering 64:10 26:3
+1732 preventing 13:2 24:1
+1733 close 56:14 35:5 24:2
+1734 organized 88:9 24:2 84:1 39:1
+1735 emerging 50:7 45:6 78:3 60:2 58:1 37:1
+1736 lie 20:1 5:1 26:1
+1737 established 15:16 40:10 60:8 21:6 13:2 97:1
+1738 respective 11:5 23:3
+1739 brings 45:2 20:2
+1740 relevance 2:3 66:2 38:1 73:1
+1741 rests 71:3 61:2 34:1
+1742 lasting 60:5 26:2 31:1 9:1
+1743 exert 11:4
+1744 understand 31:10 9:8 17:2 28:1
+1745 today 26:3 25:1 2:1
+1746 documented 33:4 80:1 0:1 66:1
+1747 transaction 55:6 11:1
+1748 embedded 43:8 24:5 64:1 93:1
+1749 illustrated 44:2 38:1
+1750 deployment 71:14 44:5 77:1
+1751 deliberate 95:1 77:1 67:1
+1752 fate 77:1 25:1 88:1
+1753 albeit 34:2 24:1 87:1
+1754 brought 15:5 18:3 91:1 60:1
+1755 deal 75:7 56:2
+1756 tax 42:6 51:4 78:3 91:1 73:1
+1757 lock 77:2 8:1
+1758 standing 24:6
+1759 build 82:4 71:3 68:2 92:1 77:1
+1760 apparatus 78:19 91:3 42:1
+1761 incumbent 89:19 92:4 80:2 0:2 87:1
+1762 leave 9:2 97:1 4:1
+1763 conventional 48:19 8:14 84:9 27:8 13:3 2:2
+1764 emergence 73:4 61:4 82:2 85:1
+1765 ecosystems 5:2 36:1
+1766 techno 58:7 91:1 64:1
+1767 representatives 88:26 67:3 92:1 78:1
+1768 reproduce 75:3
+1769 trajectory 95:2 45:2
+1770 land 5:18 56:8 79:4 75:1
+1771 fundamentally 29:2 8:2 35:1 26:1 0:1
+1772 promise 11:2 55:1
+1773 hard 49:2 7:1
+1774 enhance 60:5 15:3 14:2 44:1 24:1
+1775 rules 84:6 81:2 82:1 66:1 55:1
+1776 permit 13:3
+1777 maximum 84:2 28:1
+1778 fair 22:8 92:1 29:1 89:1
+1779 assume 1:2 79:1 7:1
+1780 landowner 94:2 92:1 41:1
+1781 legacy 43:3 36:1
+1782 utility 77:2 49:1
+1783 thanks 8:3 65:1
+1784 sophisticated 26:1 97:1 58:1 98:1
+1785 owner 66:4 26:1
+1786 financial 64:20 17:4 8:3 69:2 9:1
+1787 incentive 61:3 8:1
+1788 allow 15:11 88:2 97:1 3:1 21:1
+1789 exploratory 67:5 61:5 40:3 98:1
+1790 eventual 17:5 38:2
+1791 juncture 95:3 26:1
+1792 extend 60:3 86:1
+1793 translate 91:3 30:2
+1794 factor 98:6 38:5 25:1
+1795 pace 17:4 24:1
+1796 happens 15:2 9:2 43:1
+1797 attempted 71:5 26:1
+1798 focusing 77:4
+1799 dimension 62:1 36:1 56:1 48:1
+1800 comprises 34:3 27:1 15:1
+1801 constitute 75:3 88:2 78:1
+1802 receiving 13:3
+1803 added 89:2 8:2 92:1
+1804 dynamic 69:6 70:2 56:1 97:1
+1805 facilitating 86:2 75:1 14:1 35:1
+1806 scaled 81:2 92:1
+1807 systems 66:19 44:9 13:7 48:2 30:1
+1808 coming 82:1 49:1 4:1
+1809 organization 33:2 21:2 13:2
+1810 observe 66:4 33:2 90:1
+1811 fossil 71:43 70:14 20:1
+1812 better 56:13 61:8 63:2 89:1
+1813 validity 7:7 34:3 9:1
+1814 held 11:6 9:3 46:1 23:1
+1815 constant 49:2 93:1
+1816 moving 36:5 32:1
+1817 difficulty 91:2 71:1
+1818 lessons 71:5 60:1
+1819 extensive 3:6 31:5
+1820 direct 12:6 69:3 56:2 23:2 67:1
+1821 density 45:2 13:2 31:1
+1822 trust 46:9 5:6 63:5 36:1 18:1
+1823 largely 66:11 98:4 48:1
+1824 potentially 63:4 58:4 14:4 77:3 11:2
+1825 severe 46:6
+1826 china 98:38 69:1 21:1
+1827 weiyuan 57:7
+1828 sichuan 98:9
+1829 province 98:4 14:1
+1830 region 39:5 57:4 69:2 66:1 63:1
+1831 underlying 60:6 80:4 12:4
+1832 tended 35:3 4:1
+1833 spatial 9:8 29:3 21:2 14:2 13:2 88:1
+1834 played 68:2 32:1 76:1
+1835 nuanced 71:2 14:2 56:1 20:1
+1836 pride 57:3 15:1
+1837 policymakers 78:5 14:1 57:1 55:1
+1838 publics 67:6 73:4 57:2
+1839 compensation 57:4 67:1 19:1
+1840 schemes 89:5 57:2 44:2 86:1
+1841 advanced 31:5 85:4
+1842 raising 41:2 13:1 8:1
+1843 profile 61:2 44:2
+1844 cheap 58:3 60:2
+1845 carbon 34:11 12:6 50:4
+1846 tempered 45:3
+1847 poses 10:2 86:1
+1848 regulations 31:33 73:11 6:2 56:1
+1849 concern 56:11 66:4 20:2 12:1
+1850 west 57:2 22:2 15:2
+1851 relation 60:14 64:3 97:1 61:1
+1852 surface 46:8 66:7 5:3 16:1 84:1 20:1
+1853 subsurface 37:8
+1854 owned 3:13 37:3 12:2 35:1
+1855 opposed 93:3 56:2 41:1
+1856 leasing 34:3 94:1
+1857 operators 98:8 55:4 97:2 27:1
+1858 economically 15:6 18:4 87:1 11:1
+1859 personal 64:12 57:6
+1860 rely 46:6 42:2 1:2
+1861 living 14:13 93:2 57:1
+1862 good 60:5 93:3 10:3 38:1
+1863 attain 48:2 16:1
+1864 desirable 25:4 32:1
+1865 yields 70:3 37:1 79:1
+1866 quantity 59:3 98:1 18:1
+1867 basin 66:9 46:1 48:1 22:1
+1868 irrigation 46:4
+1869 crops 14:7
+1870 food 56:3
+1871 wastewater 57:22
+1872 leaks 57:5
+1873 losses 88:2 10:2 15:1
+1874 ended 56:3
+1875 protocol 46:6
+1876 semi 98:5
+1877 conclude 35:3 20:2 28:1
+1878 scholarship 86:2 0:2
+1879 procedural 55:22 57:1
+1880 impacts 46:23 66:17 15:4 8:3 7:3 81:1
+1881 worried 56:4 98:1
+1882 accidents 35:5 50:1
+1883 explosions 57:5
+1884 highlights 21:3 22:2 46:1
+1885 ascertain 8:2 56:1
+1886 basis 44:14 95:1
+1887 people 14:50 9:8 41:2
+1888 mutually 16:2 34:1 95:1
+1889 exclusive 41:2 57:1
+1890 respiratory 57:4
+1891 fish 57:5 32:1
+1892 secondary 87:1 31:1 42:1
+1893 arise 0:2 25:1 86:1 89:1 15:1
+1894 finds 57:3
+1895 depletion 85:2 70:2 46:1
+1896 quantities 46:2 97:1 66:1
+1897 freshwater 14:3
+1898 shortages 14:3
+1899 conflicts 8:4 14:1 73:1
+1900 barnett 41:2 14:1
+1901 echoed 45:1 15:1 67:1
+1902 aquifers 15:4
+1903 noise 57:16 17:1 63:1
+1904 depends 8:3 64:2 14:2 9:1
+1905 distant 98:3 94:1
+1906 concrete 10:2 1:1
+1907 induced 35:4 79:1 7:1 43:1
+1908 seismicity 7:4 32:3 27:1
+1909 occurring 79:5 14:2 56:1 17:1 97:1
+1910 near 57:11 85:5 36:2 55:1
+1911 funding 66:18 64:1 5:1 67:1
+1912 cause 56:3 20:2 37:1
+1913 adverse 46:3 66:2 7:2 78:1
+1914 cancer 14:8
+1915 services 17:6 42:2 41:1
+1916 influx 14:2 56:1
+1917 workers 14:8 11:1 67:1
+1918 culture 41:2 6:1
+1919 housing 14:5
+1920 driven 44:4
+1921 external 29:6 71:4 7:2 46:1
+1922 lived 98:4
+1923 event 37:8 7:2
+1924 bad 57:7
+1925 severity 46:3 4:1
+1926 expect 88:3 31:2 65:1 10:1
+1927 likelihood 7:3 57:1
+1928 prior 98:7 35:4 50:2 81:1
+1929 observation 19:2 14:1 35:1 18:1
+1930 deemed 67:5 32:5
+1931 measurement 7:11 1:1 0:1
+1932 basic 56:1 44:1 15:1
+1933 familiarity 14:4
+1934 positively 16:3
+1935 manage 23:8 10:1
+1936 postulate 10:2 68:1
+1937 circumstances 8:5 32:2
+1938 initial 0:7 40:1
+1939 rural 56:3 67:2 51:1
+1940 march 3:2 4:1
+1941 pilot 56:3
+1942 match 64:4 35:1 20:1
+1943 language 70:2 7:2 98:1 30:1
+1944 tell 56:3 93:1 1:1
+1945 know 33:12 35:5 70:1 79:1
+1946 village 46:11 9:10
+1947 encouraged 15:2 60:1 83:1 71:1
+1948 came 45:5 81:3 10:3
+1949 protective 57:7 86:2
+1950 interviewers 14:3
+1951 arose 32:3
+1952 appropriate 15:10
+1953 mitigate 98:3
+1954 rest 46:4 69:3 29:1
+1955 sampling 40:7 46:1 73:1
+1956 phase 44:6 32:2 69:1 50:1
+1957 beginning 37:3 77:2 84:1 36:1 51:1
+1958 complete 57:2 73:1 51:1
+1959 participant 56:5
+1960 family 10:3
+1961 petroleum 31:10 48:1
+1962 unable 9:3 56:1
+1963 speak 56:2 55:2 93:1
+1964 took 33:5 40:3 10:3 64:1
+1965 audio 88:3 46:2
+1966 length 66:2 37:1
+1967 notes 22:6 56:1 47:1
+1968 recordings 9:4 39:1
+1969 usd 42:2 31:1 63:1 3:1
+1970 age 34:5 46:3 23:1 21:1
+1971 young 10:3
+1972 migrate 79:4 14:1
+1973 bigger 46:1 47:1 89:1
+1974 leaving 30:3 14:1
+1975 children 10:4 73:2
+1976 home 57:4 85:1
+1977 farmers 57:3
+1978 ongoing 98:5 28:3 50:2 40:2 95:1
+1979 appendix 56:3
+1980 demographics 35:2 0:1
+1981 analyze 86:3 13:1
+1982 agreement 63:2 0:2 57:1 98:1 8:1
+1983 scheme 10:4 15:2
+1984 codes 46:4 44:1
+1985 derived 3:6 41:2
+1986 interviewees 98:2 46:1
+1987 pathways 46:2 98:1
+1988 mrs 46:38 57:2
+1989 believe 58:2 46:2 48:1
+1990 polluted 46:4 14:3 98:1 1:1
+1991 chen 14:6 63:1
+1992 drink 14:6
+1993 liu 46:15
+1994 layer 79:2 56:1
+1995 closer 14:3 70:1 61:1
+1996 extremely 33:1 10:1 18:1
+1997 mentioned 14:6 57:1 37:1 63:1
+1998 small 50:5 34:4 63:3 46:1 19:1 7:1
+1999 die 14:4
+2000 rises 57:2 85:1
+2001 died 14:4
+2002 fluid 37:4 46:1 14:1
+2003 huang 14:6
+2004 designed 64:3 39:2
+2005 duration 57:3 32:1 73:1
+2006 saw 14:12
+2007 operations 34:13 93:3 80:2 95:1 9:1
+2008 connection 46:2 2:1
+2009 belief 56:2 6:1 3:1
+2010 physical 34:1 32:1 84:1
+2011 barriers 30:1 69:1 94:1
+2012 think 46:2 70:1
+2013 river 94:2 46:2
+2014 zeng 57:3
+2015 harm 31:3 40:2
+2016 tang 57:10
+2017 smoke 56:4
+2018 smell 14:8 18:1
+2019 things 32:3
+2020 sick 10:3
+2021 zhou 57:3
+2022 flaring 14:7 10:1
+2023 went 35:3
+2024 height 57:1 42:1 60:1
+2025 visible 85:10 37:2 81:1
+2026 smells 10:6 14:1
+2027 gases 98:2 27:1 7:1
+2028 ing 76:2 57:2
+2029 soon 4:2 35:1 12:1 79:1 86:1
+2030 gone 98:2 57:1 75:1
+2031 machines 46:2 50:1
+2032 lots 14:6
+2033 household 46:2 60:1
+2034 acceptable 63:3 51:1
+2035 got 33:2 10:2
+2036 disposal 7:5 98:2
+2037 causing 10:3 77:1
+2038 toxic 98:3
+2039 caused 56:2 6:1 9:1
+2040 affecting 97:3 51:1
+2041 grow 66:2 91:1 29:1
+2042 crop 10:3
+2043 spills 46:3 79:1
+2044 drivers 78:2 3:2 41:1
+2045 danger 57:3 89:1
+2046 dangers 95:2 46:1
+2047 reservoir 48:3 79:2 14:2 58:1
+2048 inside 96:2 46:1
+2049 working 37:3 7:3
+2050 look 56:4 88:3 40:3 94:2 38:2 98:1
+2051 house 50:2 23:2 56:1 77:1
+2052 cancers 57:3 37:1
+2053 pointed 39:6
+2054 developers 98:13 41:4
+2055 illnesses 14:3
+2056 chance 9:3 14:1
+2057 acknowledged 95:4 10:1
+2058 counts 56:1 44:1 34:1
+2059 insurance 35:5
+2060 monetary 4:2 98:1
+2061 worth 63:2 14:1
+2062 secured 14:4
+2063 subsidies 98:4 50:3 13:1
+2064 abundance 70:13 35:1
+2065 lives 88:6 35:2
+2066 protect 14:1 93:1 17:1 3:1
+2067 incentivize 71:3 14:1
+2068 infrastructure 29:8 22:7 32:2
+2069 extracting 55:7 61:1
+2070 villagers 46:4
+2071 ahead 35:2 46:1 80:1
+2072 heard 98:3
+2073 spent 28:2 55:1
+2074 money 42:3 97:1 33:1 63:1
+2075 statements 49:1 24:1 77:1
+2076 offs 98:5 17:2
+2077 leaked 69:2 57:2 96:1 73:1
+2078 happened 56:4
+2079 houses 98:2 9:2
+2080 earthquake 50:2 57:1
+2081 extracted 58:2 48:2 35:2 79:1 59:1 93:1
+2082 official 21:5 46:3 81:1 22:1
+2083 reading 58:2 70:1 73:1
+2084 signs 78:4 77:1 57:1
+2085 leaders 10:2 18:1
+2086 impacted 22:4 35:1 76:1
+2087 rarely 95:2 10:2
+2088 site 55:15 93:10 84:1 69:1
+2089 publicly 97:2 10:1
+2090 seek 69:4 77:1
+2091 felt 14:3 93:1
+2092 capable 6:2 56:1 64:1
+2093 contextual 3:7 27:2 10:1
+2094 thousand 93:2 15:1
+2095 poor 98:4 64:1
+2096 aware 11:3 9:2 41:1
+2097 moved 37:2 24:2 56:1
+2098 safe 46:1 19:1 39:1
+2099 course 88:3 73:1 10:1 58:1
+2100 stages 13:2 10:2 73:1
+2101 projects 34:13 63:10 98:5 33:4 85:1
+2102 active 63:13 78:1
+2103 populations 55:5 14:1
+2104 links 98:3 82:1 66:1
+2105 occurred 79:6 98:3 39:1
+2106 damages 55:3
+2107 association 14:3 55:1
+2108 magnitude 6:4 17:2 14:1
+2109 amplified 30:2 34:1
+2110 cultural 86:3 50:3 14:1
+2111 mainly 18:3 15:3 79:1 3:1
+2112 theme 51:2 46:1 96:1
+2113 villages 14:5 33:2
+2114 useful 37:3 25:1 12:1 78:1
+2115 pollutants 98:2 55:1
+2116 want 88:5 46:1 19:1
+2117 feedback 98:2 28:1
+2118 forms 48:8 36:4 31:4 84:1
+2119 payments 28:2 98:1
+2120 limitations 46:2 60:1 48:1 12:1 22:1
+2121 kind 78:4 10:1 20:1
+2122 reveal 32:3 55:2 0:1
+2123 closed 84:2 35:2 91:1
+2124 response 66:7 40:2 77:1 8:1 22:1
+2125 options 41:3 78:2
+2126 indirectly 84:3
+2127 surveys 1:10 35:1 2:1
+2128 generalizations 40:4 46:1
+2129 stedman 65:2 14:1 67:1
+2130 deposit 33:6 98:1
+2131 location 33:4 86:1 8:1 3:1 15:1
+2132 loose 70:3 46:1 61:1 97:1
+2133 boom 17:2 25:1 12:1
+2134 organic 58:7 7:1
+2135 spurred 70:3 80:1
+2136 volumetric 48:12 11:1
+2137 trapped 48:3 7:1
+2138 beneath 93:4 85:2 19:2 67:1
+2139 rationalities 48:10 39:1
+2140 practices 70:19 67:5 3:5 21:4 64:3 60:1
+2141 recoverability 85:9
+2142 measurable 6:3 3:1
+2143 intelligible 70:8
+2144 rendered 58:6 81:1
+2145 governable 58:9 61:1
+2146 possibilities 5:4 70:3
+2147 concept 1:12 73:6 51:3 71:2 39:2 2:1 29:1 95:1
+2148 imaginaries 70:28 49:1
+2149 governmentality 70:16
+2150 visions 70:10 9:1
+2151 scrutinize 58:3
+2152 knowable 85:9
+2153 purposeful 48:5
+2154 operationalize 85:3
+2155 visualization 58:6
+2156 inscription 48:6 85:2
+2157 illustrates 6:4 42:1
+2158 speculative 85:8 48:1
+2159 yield 58:2 35:1 97:1
+2160 securitization 50:6 48:4 85:2
+2161 futures 85:15 48:4 7:2 5:1
+2162 scientists 20:13 40:4
+2163 unsustainable 96:4 48:1
+2164 avoided 63:2 78:1 51:1
+2165 practitioners 70:7
+2166 presumably 48:3 49:1
+2167 exhaustible 85:4
+2168 scarcity 85:7
+2169 raised 73:3 25:3 82:2 55:2 12:1
+2170 peak 85:2 73:1
+2171 century 48:4
+2172 nations 29:2 63:1
+2173 depend 15:4 8:1
+2174 unstable 1:3
+2175 flows 86:3 58:1
+2176 counter 44:2 85:1
+2177 deploying 42:3 1:1
+2178 simultaneously 85:3 86:1 81:1 9:1
+2179 analysts 44:3 58:1
+2180 maintained 96:2 48:2 1:1 55:1
+2181 expensive 97:1 87:1 77:1
+2182 parallel 34:4 31:1
+2183 calls 70:3 71:1 12:1 22:1
+2184 facilitated 70:2 28:1
+2185 asserted 85:1 77:1 66:1
+2186 recoverable 70:8 55:2 17:1 73:1
+2187 reserve 94:2 97:1
+2188 unknown 48:7 23:2 9:1 5:1
+2189 uneconomic 85:3
+2190 undiscovered 85:5
+2191 overlooked 1:3 59:2
+2192 technologically 84:4
+2193 earth 20:13 39:1
+2194 crust 6:4
+2195 affirmed 48:3 25:1
+2196 rogner 85:12
+2197 mobilization 1:4
+2198 gathered 1:5 2:1
+2199 momentum 86:2 50:1
+2200 volumes 25:4 11:3
+2201 map 88:5 94:2 1:1 78:1
+2202 occurrences 58:7
+2203 recovery 34:5
+2204 triggered 0:6 48:2
+2205 mitigation 17:4 70:2 32:1
+2206 uncertainties 20:17 9:13 1:4
+2207 subterranean 48:6
+2208 translated 85:3 88:2
+2209 legitimizing 58:3
+2210 inventorying 58:7
+2211 devices 34:3
+2212 strategized 58:3
+2213 securitized 85:3
+2214 sociotechnical 50:13 70:10
+2215 mapping 70:3 39:2
+2216 deployed 85:5 87:3 7:1 17:1
+2217 issued 6:3 18:1 88:1
+2218 collecting 86:2 33:1
+2219 reviews 37:2 25:1
+2220 mcglade 85:3
+2221 draws 12:2 39:1 70:1
+2222 contributes 94:2 85:2 69:1
+2223 outline 20:3 39:1 85:1
+2224 concepts 69:3 95:2
+2225 calculable 58:5 73:1
+2226 discusses 6:1 70:1 15:1 63:1
+2227 introduced 20:2 25:1 47:1 95:1
+2228 jasanoff 25:3
+2229 kim 58:3
+2230 transitions 89:28 94:1
+2231 drawn 20:7 19:1 81:1
+2232 challenge 77:8 89:2 6:1
+2233 lets 85:4
+2234 imagine 25:7 88:3
+2235 productive 85:5 66:1
+2236 trajectories 95:7 70:2
+2237 legitimate 60:14 17:1
+2238 capabilities 80:25 70:2 3:1
+2239 prescriptive 85:3
+2240 ought 58:3
+2241 oriented 97:4 9:1
+2242 agendas 70:1 32:1 21:1
+2243 norms 87:3 21:1
+2244 underpin 39:2 48:1
+2245 transformed 21:5 88:4
+2246 epistemic 93:2 6:2
+2247 foucault 85:7
+2248 valuable 39:5 4:1
+2249 relational 38:2 66:1
+2250 analytics 58:5
+2251 modern 58:4
+2252 micro 25:2 11:2 95:1
+2253 seemingly 50:2 70:1 79:1 67:1
+2254 soft 85:2 77:1
+2255 mundane 48:7 93:1 5:1
+2256 procedures 63:11 71:6 30:1 25:1 55:1
+2257 multitude 48:3 7:1
+2258 discursive 48:2 27:2
+2259 stems 69:3 87:1
+2260 reciprocal 80:2 34:1
+2261 manageable 48:3
+2262 linkages 86:2 29:1 13:1
+2263 apparatuses 58:4
+2264 estimating 85:7
+2265 let 15:3
+2266 acting 85:2 95:1 19:1
+2267 exercised 64:2 70:1 93:1
+2268 heterogeneous 73:7 85:2
+2269 illustrate 38:3 8:2
+2270 territory 1:9 21:4
+2271 landscape 63:4 38:1
+2272 argues 85:5 23:3
+2273 territorial 70:1 48:1 31:1 77:1
+2274 space 88:14 58:4 12:1 55:1
+2275 profitable 34:2 70:1
+2276 forest 48:2 60:1
+2277 statistical 86:3 9:1
+2278 metrics 1:2 45:1
+2279 rendering 70:5 85:1
+2280 category 70:3 19:1
+2281 propose 60:7 93:2
+2282 exercise 71:2 67:1
+2283 myriad 48:2 25:1
+2284 certainly 20:2 61:1
+2285 classification 48:5
+2286 alberta 17:4 48:1
+2287 imaginary 6:6 85:2
+2288 geologists 9:7 85:1 94:1
+2289 massive 70:2 29:1
+2290 late 70:1 27:1 63:1 78:1
+2291 simply 44:6 87:2 32:2
+2292 ignored 77:3
+2293 arrangement 8:4 85:2
+2294 measuring 20:5
+2295 outlining 81:5 75:1
+2296 systematization 58:3
+2297 reinforcing 78:2 44:1
+2298 mckelvey 58:8
+2299 break 60:2 49:1
+2300 thinking 77:3 6:3 40:1
+2301 discovered 1:4
+2302 constituted 78:3 1:1
+2303 published 48:8 67:3 20:1 18:1
+2304 criticism 71:3
+2305 unknowns 88:5 48:2 70:1 20:1
+2306 prevailing 20:3
+2307 seriously 78:3 85:1 61:1 13:1
+2308 conceptual 79:10 63:3 78:2
+2309 advances 63:2 17:2 51:1
+2310 upstream 25:1 76:1 73:1 67:1
+2311 fractured 15:3 34:1
+2312 devonian 6:3
+2313 stretching 30:2 58:1
+2314 virginia 60:2 48:1
+2315 continuity 64:2 48:2
+2316 analogue 85:3
+2317 properties 70:4 59:1 23:1
+2318 successfully 62:1 85:1 35:1 27:1
+2319 original 48:3 63:1
+2320 ogip 70:3
+2321 tcm 58:5 41:2 65:1
+2322 initially 20:5 63:2 87:1 9:1
+2323 prospective 85:3
+2324 projected 6:3 76:1
+2325 requiring 44:4
+2326 mix 50:11 21:9 58:5 31:2
+2327 rising 17:4 58:1
+2328 iea 34:3 60:1
+2329 renewables 89:45 64:6
+2330 demand 21:11 43:2
+2331 significance 70:2 15:1 11:1 22:1
+2332 golden 70:2 2:1
+2333 located 33:4 66:2 6:2 64:1 77:1 82:1 8:1
+2334 remained 84:2 1:2 87:1 78:1
+2335 securitizing 85:5
+2336 enacted 71:2 38:2
+2337 prospects 70:2 89:1
+2338 worldwide 80:5 1:2
+2339 modest 58:1 17:1 80:1
+2340 ari 70:4
+2341 sweden 30:3
+2342 distinguished 40:2 1:1
+2343 identification 42:2 0:2 88:1
+2344 variables 79:14 1:3 24:1 43:1
+2345 permeability 40:5 30:2 34:1 60:1
+2346 excluded 31:2 70:1 40:1 22:1
+2347 probability 63:3 15:2
+2348 spaces 38:2 77:1 18:1
+2349 pursuit 21:5
+2350 pores 34:3
+2351 actually 20:4 7:4 88:3 98:1
+2352 released 96:2 86:2
+2353 shales 15:3 17:2
+2354 game 8:8 73:1
+2355 changer 58:1 9:1 15:1
+2356 recognition 64:2 85:1
+2357 discover 33:2 31:1
+2358 council 6:3 41:2 20:1 87:1 16:1
+2359 transformation 81:3 42:2
+2360 quantification 70:4
+2361 visual 60:5 48:2
+2362 virtual 70:3
+2363 reduced 38:2 80:1 25:1 24:1
+2364 geographically 38:2 19:1
+2365 sphere 48:2 30:1
+2366 stock 48:2 30:1
+2367 forged 1:2 96:1
+2368 probabilistic 85:2 88:1
+2369 technically 67:2 1:2
+2370 trr 70:3
+2371 feasibility 44:4 58:1
+2372 ambiguous 85:5 86:1 96:1
+2373 unreliable 85:2 7:1
+2374 alike 48:1 60:1 28:1
+2375 centres 85:1 2:1 95:1
+2376 partnerships 71:5 25:1
+2377 grounded 48:1 96:1 24:1
+2378 material 64:2 41:2 33:2 85:1 89:1
+2379 measurements 7:9 70:2
+2380 bowland 94:5 6:1
+2381 certainty 40:4 0:3 1:1
+2382 productivity 70:1 34:1 22:1
+2383 occupy 1:2 55:1
+2384 recognized 40:2 1:1
+2385 valid 2:2 1:2 78:1
+2386 concessions 61:4 81:1
+2387 granted 77:4 27:4 69:1 34:1
+2388 ministers 70:2 50:2 19:2
+2389 ministry 1:3 64:2 69:1
+2390 dioxide 29:2 39:1
+2391 amended 85:1 30:1 0:1
+2392 announced 89:11 34:1 66:1
+2393 ban 21:3
+2394 december 63:3 73:2
+2395 office 63:5 85:1 42:1
+2396 ougo 86:1 65:1 28:1
+2397 statement 89:4 1:2 98:1 36:1
+2398 parliament 20:4
+2399 secretary 66:6 58:1
+2400 onshore 89:9 55:5 61:1
+2401 document 67:15 40:6 1:1
+2402 bring 8:10 95:1 22:1
+2403 wider 78:12 39:3 17:2
+2404 stated 12:10 60:5 19:1 0:1 31:1
+2405 january 21:1 42:1 93:1
+2406 laws 63:10 66:2 6:1
+2407 taking 8:8 68:1
+2408 sustained 85:2 71:1 43:1 55:1
+2409 advance 71:4 8:4
+2410 ret 42:31
+2411 acceptability 71:5 66:1 67:1
+2412 ecological 71:6 76:2 19:1 29:1
+2413 nic 64:21
+2414 eco 42:24 60:1
+2415 sophistication 71:17
+2416 ranking 64:4
+2417 achiever 42:3
+2418 bought 93:2 21:2
+2419 consideration 3:5 66:1
+2420 assumption 97:2 66:2 42:2 3:1
+2421 green 12:7
+2422 traditional 64:2 0:1 51:1
+2423 fits 87:2 29:1
+2424 adjustments 42:4
+2425 theories 44:1 30:1 7:1 21:1
+2426 necessity 64:3 7:2
+2427 cooperation 71:14 76:2 18:2
+2428 expression 64:2 0:1
+2429 assists 3:2 30:1
+2430 immediate 15:2 1:1
+2431 consumers 71:2 29:1
+2432 start 73:5 39:3 96:1
+2433 encourage 42:8 61:1 15:1
+2434 hydraulically 3:2 21:1
+2435 reforming 71:3
+2436 nics 30:3
+2437 pliability 71:10
+2438 contains 64:2 8:1
+2439 concludes 79:3 44:1 27:1
+2440 shortage 12:4
+2441 systemic 8:11
+2442 niche 89:13 64:1
+2443 deploy 12:3 20:1
+2444 creates 17:3 71:1 12:1 22:1
+2445 societies 64:3 63:1
+2446 involvement 3:7 44:4 22:1
+2447 fdi 61:5
+2448 integration 87:3 8:2
+2449 justification 42:6 81:3
+2450 richer 29:3 31:1
+2451 picture 12:3
+2452 emerges 64:2 87:1 40:1
+2453 scotland 42:2 95:1
+2454 france 61:3 86:2 84:1 79:1
+2455 maintains 71:5
+2456 creating 34:3 36:2 18:1
+2457 banned 3:2 71:1 12:1
+2458 supporters 42:2 11:2
+2459 author 69:5 63:3
+2460 publication 39:3 32:1
+2461 outlined 86:4 82:4
+2462 methodological 73:2 64:1
+2463 accordingly 61:3 20:1
+2464 export 30:1 29:1 82:1
+2465 reform 64:3 34:3 79:1 12:1
+2466 signals 64:2 61:2
+2467 percent 64:2 97:1
+2468 engaging 55:3 42:1
+2469 challenging 31:5 95:2 71:1
+2470 marketplace 30:3 71:1
+2471 discouraged 71:3
+2472 cognitive 71:7 18:1
+2473 transforming 84:2 23:1
+2474 multinational 44:2 91:1
+2475 enabling 28:2 49:1 42:1 64:1 79:1 81:1
+2476 intervention 21:4 35:2 49:1
+2477 regulated 63:3 88:2
+2478 idea 7:2 64:1
+2479 permission 22:6 87:4
+2480 grant 5:3 15:2 44:1
+2481 renewal 21:4
+2482 directed 61:3 28:1
+2483 products 87:4 36:1 79:1 37:1
+2484 array 15:3 59:2 95:1
+2485 grants 31:4
+2486 capital 17:6 64:3 4:1
+2487 pull 71:6 82:1
+2488 commercialization 71:3 24:1
+2489 spectrum 87:3
+2490 cluster 87:5
+2491 gained 76:3 69:2 38:1 17:1
+2492 nirvana 42:9
+2493 incumbents 50:6
+2494 wasteland 64:5 87:1
+2495 nonetheless 21:3 42:1
+2496 host 55:5 86:1 87:1 49:1
+2497 invisible 68:3 71:1 36:1
+2498 conscious 40:2 76:1
+2499 stem 61:3
+2500 signal 76:3
+2501 wants 79:2 87:1 94:1
+2502 resist 12:3
+2503 pressures 21:6
+2504 engineering 12:8 11:3
+2505 institutionally 64:2 3:1
+2506 approval 28:3 30:2 87:1
+2507 investing 42:4
+2508 flexibility 71:2 63:1 23:1
+2509 reforms 64:2 60:1 98:1
+2510 likewise 50:2 11:2 42:1
+2511 represented 64:1 20:1 33:1
+2512 pursue 5:2 44:1 36:1
+2513 proposal 60:4
+2514 sought 42:2 34:1
+2515 rejected 83:1 22:1 55:1
+2516 forces 22:4 80:2 66:1 13:1 96:1
+2517 continue 12:4 67:1
+2518 pursuing 50:5
+2519 legislation 60:8
+2520 dimensions 80:8 33:3 9:2 59:1 64:1 73:1
+2521 encouraging 71:3 63:2 21:1
+2522 input 66:2 42:2
+2523 output 84:4 16:1
+2524 fired 42:4 49:1
+2525 irena 30:3
+2526 plan 44:2 31:1 75:1
+2527 parties 68:2 42:1 65:1
+2528 remaining 13:2 11:2
+2529 consumer 44:3
+2530 impossible 18:7 0:1 40:1
+2531 stating 79:2 36:2 22:2 3:1
+2532 unacceptable 23:2 30:1
+2533 locations 9:3 12:2
+2534 san 71:2 44:1
+2535 leon 42:3
+2536 cuadrilla 55:9 60:6
+2537 tests 69:6 41:1
+2538 drop 61:2 78:1 73:1
+2539 altered 86:2 71:1
+2540 huge 42:1 0:1 43:1
+2541 advisor 78:2 63:1
+2542 geologist 88:3 64:1
+2543 emission 7:2 76:1
+2544 treasury 50:3 12:1
+2545 investors 71:2 36:2 89:1
+2546 invest 42:2 89:1 88:1 18:1
+2547 delayed 42:1 3:1 50:1
+2548 spur 42:1 11:1 69:1
+2549 agreed 60:3 75:1
+2550 million 87:2 15:2
+2551 participation 55:31 9:6 17:5 64:1 59:1 67:1
+2552 service 31:3 60:1
+2553 backing 42:3 95:1 63:1
+2554 senior 50:2 84:1
+2555 executive 50:7 69:1 51:1
+2556 manager 42:3
+2557 internationally 64:1 32:1 68:1
+2558 formed 5:4 44:3 84:1
+2559 financing 30:3 77:1
+2560 funds 55:3 31:2
+2561 fund 66:7 21:2 1:1 73:1
+2562 permitting 66:3 84:1
+2563 supreme 60:2 55:1
+2564 overseeing 39:2 89:1
+2565 simplified 44:3 88:1
+2566 demands 3:7 9:1
+2567 originally 12:2 5:1 93:1
+2568 planned 9:3 64:1
+2569 faster 3:2 28:1
+2570 investor 87:3
+2571 ties 38:2 12:1 29:1
+2572 promoted 87:2 66:1
+2573 facilitate 94:2 87:1 8:1
+2574 insufficient 23:3 64:2
+2575 overcome 87:3 5:3
+2576 expand 80:3 42:1 11:1 89:1
+2577 mixed 3:5
+2578 noticeably 27:2 71:1
+2579 licensing 63:4 73:2 77:1
+2580 overly 69:1 27:1 44:1
+2581 interventions 96:9 31:1
+2582 introduce 44:1 40:1 27:1
+2583 adapted 86:2 5:1
+2584 sustaining 87:6 61:1
+2585 conclusion 40:3 42:1
+2586 salient 50:4 7:2 87:1
+2587 sustainability 95:20 0:2 29:1
+2588 laurie 79:3
+2589 principles 79:31 43:1
+2590 precaution 40:16
+2591 prevention 79:18
+2592 shall 40:5
+2593 preventive 7:36
+2594 principle 79:70
+2595 precautionary 79:55 83:1
+2596 apt 79:4 8:1
+2597 apart 7:2 63:1
+2598 distinction 7:11 8:3 96:1
+2599 entail 40:3
+2600 eias 79:2 37:1 22:1
+2601 notwithstanding 27:2 24:1
+2602 respected 0:2 1:1
+2603 courts 5:1 2:1 94:1
+2604 categorize 7:3
+2605 falling 32:3
+2606 usually 8:7 18:2 12:1
+2607 replaced 79:2 37:1
+2608 precise 18:4 19:2 93:1
+2609 brief 80:4 40:2 78:1
+2610 argumentation 40:3
+2611 triggering 79:2 61:1
+2612 usa 88:4 15:1 7:1 97:1
+2613 applications 23:8
+2614 resistance 89:8 67:2 81:1 3:1 18:1
+2615 tremors 40:9 60:2
+2616 contradictory 51:5 2:1 7:1
+2617 naturally 79:5
+2618 layers 40:5 67:1
+2619 depths 2:3
+2620 stimulation 40:4 55:1
+2621 viability 28:2 79:1 5:1
+2622 geothermal 24:3
+2623 bit 73:2 60:1
+2624 german 44:2 20:1 19:1 12:1
+2625 february 8:3 11:1 65:1
+2626 court 60:3 7:1
+2627 situations 8:3
+2628 treaty 7:5
+2629 tfeu 7:7 11:1
+2630 programmes 78:2 7:1
+2631 grounds 11:3 89:2 5:1
+2632 ensuring 67:2 7:1
+2633 intensity 82:3 29:2 7:1
+2634 anticipate 5:3
+2635 cut 20:2 96:1
+2636 intended 60:4
+2637 blurred 8:3 89:1
+2638 watershed 51:2 75:1
+2639 proof 40:3
+2640 causation 7:5
+2641 causal 79:12
+2642 exactly 49:2 79:1 37:1
+2643 disciplines 79:2 80:1 96:1
+2644 facts 93:7 98:1
+2645 walker 79:10 20:3 55:2
+2646 easy 2:1 59:1 96:1
+2647 neutral 96:2 40:1 20:1 95:1
+2648 error 40:3
+2649 modelling 40:7
+2650 infer 19:3
+2651 samples 79:6 80:1
+2652 adequately 32:4 23:1
+2653 generalization 7:4
+2654 mathematical 40:7
+2655 correlation 79:3 97:1 34:1
+2656 experiments 69:2 75:1
+2657 template 43:2 2:1
+2658 staff 86:4
+2659 remarkable 89:2 75:1 17:1
+2660 freedom 78:2 44:1
+2661 fragmented 11:6
+2662 recognises 75:3
+2663 targeted 2:4
+2664 longer 8:6
+2665 art 79:8
+2666 affairs 95:2 40:1
+2667 distinguish 40:3 77:1
+2668 difficulties 77:3
+2669 french 7:8
+2670 demanded 86:2 88:1
+2671 intense 24:2 82:1
+2672 formally 61:2 60:1
+2673 orders 78:2 79:1 33:1
+2674 debates 82:1 37:1 73:1
+2675 proved 27:3 39:1 93:1 94:1
+2676 wanted 5:7
+2677 dispute 45:3
+2678 straightforward 7:2 27:1 38:1
+2679 methodology 79:4 93:2
+2680 drills 9:5 32:1
+2681 stressed 27:2 40:1 9:1
+2682 detailed 50:3 20:1 80:1
+2683 sum 5:5
+2684 injection 86:3
+2685 holistic 11:8 16:1
+2686 lot 69:3
+2687 commons 40:2 96:1
+2688 blackpool 69:2 77:1
+2689 incident 7:5
+2690 doubt 20:3 50:1 89:1
+2691 analysed 88:4 79:1
+2692 wrong 40:2 33:1
+2693 casing 7:4
+2694 flawed 7:3
+2695 standard 69:2 22:1
+2696 arises 69:3 75:1
+2697 invoke 2:2 55:1
+2698 van 94:1 51:1 23:1 15:1
+2699 incorporating 55:3 62:1
+2700 simple 9:3 35:1 51:1
+2701 stakeholder 66:12 11:3
+2702 gap 86:2 87:1
+2703 concentration 43:2 96:1
+2704 span 17:4
+2705 interlinked 29:3
+2706 premises 59:7
+2707 domains 80:17 32:1 8:1
+2708 empirically 11:4
+2709 mexico 27:16 80:3 66:1
+2710 interdisciplinary 29:6
+2711 drastically 80:2 13:1
+2712 robust 80:4 89:1
+2713 trade 17:5
+2714 manifest 29:1 3:1 77:1
+2715 premise 11:2 98:1
+2716 inclusive 27:6
+2717 configurations 78:2 13:1
+2718 generic 5:3
+2719 inferred 80:4
+2720 drill 18:7 41:2 38:1 0:1
+2721 chains 78:2 59:1 87:1
+2722 profitability 5:5 51:1
+2723 distinctive 17:3
+2724 accurate 23:3
+2725 personnel 29:2 41:1
+2726 transcends 29:2 24:1
+2727 prism 80:2 18:1
+2728 multidisciplinary 80:4 2:1
+2729 shift 59:2 96:1 66:1
+2730 looking 11:7
+2731 benchmark 27:3
+2732 tension 63:1 11:1 73:1 23:1
+2733 fairly 59:3 18:1
+2734 notions 89:7 80:2 60:2
+2735 differing 89:2 66:2 19:1
+2736 ngos 17:3 81:2 68:1
+2737 macro 80:4
+2738 entrenched 17:3
+2739 geophysical 29:3 88:1
+2740 endeavor 88:3 72:1
+2741 rig 33:3 98:1
+2742 city 34:2 80:1 93:1
+2743 eagle 94:2 55:2 3:1
+2744 ford 22:4 21:1
+2745 interactions 9:14 17:12 81:1
+2746 feed 21:4
+2747 keeping 96:3 27:2
+2748 helps 59:2 82:1
+2749 exhaustive 5:3
+2750 tripartite 59:3
+2751 restrictions 29:2 27:1
+2752 imposed 3:3 65:1
+2753 preconditions 29:4
+2754 minimal 31:2 38:1 55:1
+2755 programs 13:3
+2756 providers 59:3
+2757 wealth 55:4 27:1 77:1
+2758 assets 28:3 80:1 76:1
+2759 encompasses 43:2 27:1
+2760 skills 89:16 61:1 55:1
+2761 oilfield 11:4
+2762 transport 11:3 22:1
+2763 commitment 81:4 11:1 17:1 63:1 66:1
+2764 heart 0:1 69:1 67:1
+2765 temporal 33:5 16:1 82:1
+2766 owners 59:2 94:1
+2767 engagement 66:27 9:3 50:1
+2768 informational 33:4 17:1
+2769 dialogue 66:12
+2770 evidently 89:4 36:2
+2771 connect 27:2 17:2
+2772 delivered 11:3
+2773 tone 3:2 13:1
+2774 licenses 80:1 73:1 31:1 22:1
+2775 legitimacy 66:2 31:2 68:1
+2776 delays 67:2 94:1 21:1 87:1
+2777 equitable 66:4
+2778 stay 9:6 69:1
+2779 stronger 8:2 0:1
+2780 canadian 27:6
+2781 provinces 27:8
+2782 bans 94:2 29:1
+2783 provincial 29:4
+2784 operating 8:3 12:2 60:1
+2785 expense 43:2 3:1
+2786 aboriginal 29:4
+2787 tenders 27:6
+2788 participate 66:6 33:1
+2789 arid 59:3
+2790 competing 34:1 41:1 93:1
+2791 sustain 17:2 9:1
+2792 initiatives 17:2 65:1
+2793 ambitious 80:3 3:1
+2794 targets 5:2 21:1 82:1
+2795 accelerate 80:3
+2796 transparency 66:12 28:1
+2797 chain 95:5 29:1
+2798 pemex 43:3
+2799 saturated 73:3 8:1
+2800 transmission 65:2 29:1
+2801 online 23:2 65:1
+2802 performance 22:2 60:1 11:1
+2803 check 69:2 16:1
+2804 collective 9:2 5:2 3:1
+2805 destruction 95:5 77:1
+2806 incumbency 78:65
+2807 destructive 95:13
+2808 masking 81:6
+2809 reinvention 50:5
+2810 reproduced 89:3
+2811 unless 37:2 78:1
+2812 undertaken 89:2 44:1
+2813 committee 95:5
+2814 mixes 89:28
+2815 resetting 95:3
+2816 quoted 89:7 63:1
+2817 creative 50:11
+2818 strengthened 81:3
+2819 configuration 81:3
+2820 solidified 81:3
+2821 focussed 55:3 97:2
+2822 emphasises 78:2 94:1
+2823 destabilise 50:4
+2824 explored 5:4 50:1 81:1
+2825 literatures 50:4
+2826 composition 22:2 32:1 88:1
+2827 radical 78:2 73:1
+2828 david 95:3
+2829 proceed 77:3 50:1
+2830 president 95:3
+2831 apparently 50:3 55:2
+2832 ostensibly 78:6 95:1
+2833 neatly 82:1 75:1 76:1
+2834 bounded 69:2 78:1 33:1
+2835 expedient 96:4
+2836 polity 95:3 89:1
+2837 commitments 89:6 84:1
+2838 kinds 89:5 36:2 95:1
+2839 cultures 50:4
+2840 notional 95:3
+2841 constituting 78:5
+2842 polities 38:3
+2843 variously 89:3
+2844 pervasive 39:2 77:1
+2845 military 78:3
+2846 contracts 96:1 89:1 5:1
+2847 bills 89:5 81:2
+2848 siting 67:4 49:1 73:1
+2849 chancellor 89:3
+2850 george 50:5
+2851 osborne 89:5
+2852 moment 33:5 8:1
+2853 minster 95:2 44:1
+2854 budget 36:4
+2855 breaks 66:2 32:2
+2856 caudrilla 89:4 50:1
+2857 enthusiasm 50:3 9:2
+2858 cameron 50:3
+2859 trespass 60:4
+2860 written 82:3
+2861 sensitive 77:2 17:1
+2862 worked 60:2 44:2
+2863 decc 81:5 95:3
+2864 organisations 66:2 96:1
+2865 england 67:3 55:2 81:1
+2866 foi 95:1 82:1 20:1
+2867 meetings 9:30 50:4 41:1
+2868 civil 89:6 39:5 96:2
+2869 appointments 50:3
+2870 advisory 55:3 82:1
+2871 director 96:3 33:1
+2872 appointed 89:2 2:1
+2873 autumn 89:3
+2874 crisis 96:2 73:1
+2875 hinkley 89:3
+2876 fore 95:3
+2877 civilian 81:3
+2878 defence 78:11
+2879 trident 81:2 75:1
+2880 weapons 96:3
+2881 submarines 81:5
+2882 mod 81:2 73:1
+2883 contract 51:3 21:1 89:1
+2884 rolls 89:11
+2885 royce 89:11
+2886 reactor 78:3
+2887 utilised 12:2 31:1
+2888 submarine 95:7
+2889 lost 96:3
+2890 programme 95:3 16:1
+2891 modular 50:3
+2892 reactors 78:3
+2893 smrs 78:8
+2894 centre 82:2 13:2
+2895 submitted 66:2 17:1
+2896 reset 82:3
+2897 rationales 50:4
+2898 proposals 44:2 13:2
+2899 installations 38:2 89:1 9:1
+2900 pillars 89:3
+2901 retain 51:1 17:1 67:1
+2902 rhetoric 55:5 81:1 82:1 5:1
+2903 provision 41:2 38:1
+2904 analytically 81:3
+2905 recognised 50:3
+2906 democratic 22:7 95:3 50:1
+2907 loaded 88:4
+2908 exploitable 73:3 9:2
+2909 przywidz 88:10 93:2
+2910 pomorskie 88:11
+2911 deficits 9:12 22:2
+2912 hybrid 88:23
+2913 forums 9:17
+2914 gathering 0:2 94:1
+2915 organizers 18:3
+2916 forum 9:5 34:1
+2917 identities 93:4
+2918 confrontation 73:2 88:1
+2919 deliberative 67:5 1:2
+2920 movement 93:2 55:1
+2921 gatherings 9:3
+2922 localities 33:2 51:1
+2923 callon 73:3
+2924 conceptualize 1:3
+2925 negotiation 33:8 45:1
+2926 deficit 88:6 93:1 67:1
+2927 lay 9:3
+2928 technoscientific 9:4
+2929 explicated 73:3
+2930 protest 73:4
+2931 citizen 55:2 51:2
+2932 comment 67:3 63:1
+2933 commodity 18:3
+2934 ask 33:3 39:1
+2935 repetitive 33:3
+2936 months 73:3
+2937 municipality 88:3
+2938 stabilized 73:3
+2939 video 73:2 9:1
+2940 authors 66:11 33:3
+2941 answers 9:3 93:1
+2942 tried 93:3
+2943 locality 91:1 49:1 15:1
+2944 round 66:2 73:1 13:1
+2945 decide 22:2 68:1 67:1
+2946 fairness 67:8 94:1
+2947 utilising 66:5
+2948 megaproject 66:3
+2949 governs 67:3
+2950 cairney 66:4
+2951 crown 22:7
+2952 slo 55:9
+2953 lancashire 67:7
+2954 derive 41:2 67:1
+2955 visioning 94:2 66:2
+2956 cotton 55:12 51:3
+2957 appalachian 67:3
+2958 hays 55:3
+2959 spending 22:4
+2960 councils 94:5 60:1
+2961 packages 55:3
+2962 ugd 55:7
+2963 constituents 60:2 40:1
+2964 hearings 51:3
+2965 periods 94:3
+2966 components 37:2 31:1
+2967 fracfocus 22:3
+2968 licence 94:2 22:1
+2969 consent 41:4
+2970 localism 66:3
+2971 citizenship 67:3
+2972 deliberation 55:3
+2973 requirement 13:3
+2974 town 41:2 60:1
+2975 technocratic 16:2 51:1
+2976 whitton 55:4
+2977 ethical 94:2 60:1
+2978 municipalities 67:5
+2979 ordinances 41:3
+2980 moratoria 22:3
+2981 portion 22:3
+2982 certification 97:1 41:1 13:1
+2983 swf 66:13
+2984 administer 51:3
+2985 rattle 55:3
+2986 alstine 67:3
+2987 realised 28:2 66:1
+2988 distributive 22:2 51:1 41:1
+2989 ethically 28:2 41:1

@@ -1,0 +1,171 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.7607210859267909" totalTokens="11330" titles="gas, shale, energy, poland, state, extraction, innovation, technology, uncertainty, environmental">
+	<word weight="0.037864077669902914" count="429">gas</word>
+	<word weight="0.023654015887025596" count="268">shale</word>
+	<word weight="0.018534863195057368" count="210">energy</word>
+	<word weight="0.01262135922330097" count="143">poland</word>
+	<word weight="0.011827007943512798" count="134">state</word>
+	<word weight="0.01059135039717564" count="120">extraction</word>
+	<word weight="0.008914386584289497" count="101">innovation</word>
+	<word weight="0.008296557811120918" count="94">technology</word>
+	<word weight="0.007502206531332745" count="85">uncertainty</word>
+	<word weight="0.007325684024713151" count="83">environmental</word>
+	<word weight="0.0069726390114739625" count="79">technologies</word>
+	<word weight="0.00617828773168579" count="70">principle</word>
+	<word weight="0.00617828773168579" count="70">country</word>
+	<word weight="0.005825242718446602" count="66">european</word>
+	<word weight="0.005648720211827008" count="64">potential</word>
+	<word weight="0.005472197705207414" count="62">security</word>
+	<word weight="0.005119152691968226" count="58">polish</word>
+	<word weight="0.0048543689320388345" count="55">precautionary</word>
+	<word weight="0.004766107678729038" count="54">alternative</word>
+	<word weight="0.004766107678729038" count="54">countries</word>
+	<phrase weight="0.005937234944868533" count="7">shale gas</phrase>
+	<phrase weight="0.004240882103477523" count="5">hydraulic fracturing</phrase>
+	<phrase weight="0.0016963528413910093" count="2">bought imported instead needs integrated</phrase>
+	<phrase weight="0.0016963528413910093" count="2">precautionary principle</phrase>
+	<phrase weight="0.0016963528413910093" count="2">energy technologies</phrase>
+	<phrase weight="0.0016963528413910093" count="2">eco sophistication</phrase>
+	<phrase weight="0.0016963528413910093" count="2">state capacity</phrase>
+	<phrase weight="0.0016963528413910093" count="2">north america</phrase>
+	<phrase weight="0.0016963528413910093" count="2">fossil fuels</phrase>
+	<phrase weight="0.0016963528413910093" count="2">oil gas</phrase>
+	<phrase weight="8.481764206955047E-4" count="1">valid legal position</phrase>
+	<phrase weight="8.481764206955047E-4" count="1">conventional unconventional hydrocarbon extraction finally causal uncertainties taken account causal uncertainty means statistical correlation variables entail causation variables case shale gas scientific studies</phrase>
+	<phrase weight="8.481764206955047E-4" count="1">storage capacity alternative maintaining status quo</phrase>
+	<phrase weight="8.481764206955047E-4" count="1">large natural gas users efforts reduce greenhouse gas emissions additionally</phrase>
+	<phrase weight="8.481764206955047E-4" count="1">capacity social acceptability particular technologies regulatory capacity</phrase>
+	<phrase weight="8.481764206955047E-4" count="1">guarantees quality life general society energy</phrase>
+	<phrase weight="8.481764206955047E-4" count="1">production coal gas central</phrase>
+	<phrase weight="8.481764206955047E-4" count="1">innovation capacity</phrase>
+	<phrase weight="8.481764206955047E-4" count="1">article contributes literature state innovation processes energy</phrase>
+	<phrase weight="8.481764206955047E-4" count="1">difference conventional unconventional gas ability gas migrate conventional gas makes way source rock layers</phrase>
+  </topic>
+  <topic id="1" alpha="0.8940880496079853" totalTokens="13584" titles="gas, shale, development, local, risks, public, years, industry, social, participants">
+	<word weight="0.03916372202591284" count="532">gas</word>
+	<word weight="0.03680800942285041" count="500">shale</word>
+	<word weight="0.021643109540636044" count="294">development</word>
+	<word weight="0.011704946996466431" count="159">local</word>
+	<word weight="0.0089811542991755" count="122">risks</word>
+	<word weight="0.008760306242638398" count="119">public</word>
+	<word weight="0.007361601884570083" count="100">years</word>
+	<word weight="0.007287985865724381" count="99">industry</word>
+	<word weight="0.007287985865724381" count="99">social</word>
+	<word weight="0.006772673733804476" count="92">participants</word>
+	<word weight="0.006699057714958775" count="91">communities</word>
+	<word weight="0.006551825677267373" count="89">oil</word>
+	<word weight="0.006478209658421673" count="88">risk</word>
+	<word weight="0.0061101295641931685" count="83">water</word>
+	<word weight="0.006036513545347468" count="82">governance</word>
+	<word weight="0.00537396937573616" count="73">benefits</word>
+	<word weight="0.005226737338044758" count="71">resources</word>
+	<word weight="0.0050795053003533566" count="69">old</word>
+	<word weight="0.004858657243816254" count="66">decision</word>
+	<word weight="0.004858657243816254" count="66">government</word>
+	<phrase weight="0.010240963855421687" count="17">shale gas</phrase>
+	<phrase weight="0.0030120481927710845" count="5">oil gas</phrase>
+	<phrase weight="0.0030120481927710845" count="5">development shale</phrase>
+	<phrase weight="0.0024096385542168677" count="4">shale gas development</phrase>
+	<phrase weight="0.0018072289156626507" count="3">gas projects</phrase>
+	<phrase weight="0.0018072289156626507" count="3">shale gas industry</phrase>
+	<phrase weight="0.0018072289156626507" count="3">shale gas resources</phrase>
+	<phrase weight="0.0012048192771084338" count="2">united states</phrase>
+	<phrase weight="0.0012048192771084338" count="2">benefits risks</phrase>
+	<phrase weight="0.0012048192771084338" count="2">local residents</phrase>
+	<phrase weight="0.0012048192771084338" count="2">gas resources</phrase>
+	<phrase weight="0.0012048192771084338" count="2">local communities</phrase>
+	<phrase weight="0.0012048192771084338" count="2">development shale gas</phrase>
+	<phrase weight="0.0012048192771084338" count="2">exploration shale</phrase>
+	<phrase weight="0.0012048192771084338" count="2">gas production</phrase>
+	<phrase weight="0.0012048192771084338" count="2">gas developments</phrase>
+	<phrase weight="6.024096385542169E-4" count="1">deliberately shale gas investments associated expense</phrase>
+	<phrase weight="6.024096385542169E-4" count="1">contract company owner subsurface rights governs transaction set state law</phrase>
+	<phrase weight="6.024096385542169E-4" count="1">views duration water pollution related shale gas development saw lasting effects wastewater impact human health mrs years old saw impacts operations effect water pollution short</phrase>
+	<phrase weight="6.024096385542169E-4" count="1">decision making process literature</phrase>
+  </topic>
+  <topic id="2" alpha="0.7537132507474787" totalTokens="11864" titles="policy, energy, gas, shale, regulatory, nuclear, fracking, unconventional, resources, new">
+	<word weight="0.022252191503708697" count="264">policy</word>
+	<word weight="0.018459204315576534" count="219">energy</word>
+	<word weight="0.0171105866486851" count="203">gas</word>
+	<word weight="0.014244774106540795" count="169">shale</word>
+	<word weight="0.0125590020229265" count="149">regulatory</word>
+	<word weight="0.008934592043155765" count="106">nuclear</word>
+	<word weight="0.008344571813890762" count="99">fracking</word>
+	<word weight="0.006490222521915037" count="77">unconventional</word>
+	<word weight="0.0064059339177343225" count="76">resources</word>
+	<word weight="0.006153068105192178" count="73">new</word>
+	<word weight="0.0057316250842886045" count="68">power</word>
+	<word weight="0.00547875927174646" count="65">incumbency</word>
+	<word weight="0.00547875927174646" count="65">important</word>
+	<word weight="0.005394470667565745" count="64">level</word>
+	<word weight="0.004720161834120027" count="56">governance</word>
+	<word weight="0.004635873229939312" count="55">resource</word>
+	<word weight="0.004635873229939312" count="55">government</word>
+	<word weight="0.004551584625758598" count="54">industry</word>
+	<word weight="0.004551584625758598" count="54">key</word>
+	<word weight="0.004467296021577883" count="53">regime</word>
+	<phrase weight="0.0022354694485842027" count="3">energy policy</phrase>
+	<phrase weight="0.0022354694485842027" count="3">shale gas</phrase>
+	<phrase weight="0.0014903129657228018" count="2">purposeful technologies government operationalize rationalities practices</phrase>
+	<phrase weight="0.0014903129657228018" count="2">free market</phrase>
+	<phrase weight="0.0014903129657228018" count="2">success failure contested</phrase>
+	<phrase weight="7.451564828614009E-4" count="1">operations seismic activities caused</phrase>
+	<phrase weight="7.451564828614009E-4" count="1">industries geology policies regulation institutional</phrase>
+	<phrase weight="7.451564828614009E-4" count="1">representation given</phrase>
+	<phrase weight="7.451564828614009E-4" count="1">future global</phrase>
+	<phrase weight="7.451564828614009E-4" count="1">question understanding role</phrase>
+	<phrase weight="7.451564828614009E-4" count="1">agencies regulatory path</phrase>
+	<phrase weight="7.451564828614009E-4" count="1">large uncertainties fig</phrase>
+	<phrase weight="7.451564828614009E-4" count="1">smrs announced rolls royce came forward key competition later competitive</phrase>
+	<phrase weight="7.451564828614009E-4" count="1">strand literature relevance regulatory governance research agenda relates path dependency argument</phrase>
+	<phrase weight="7.451564828614009E-4" count="1">production hydrocarbons</phrase>
+	<phrase weight="7.451564828614009E-4" count="1">sophisticated reserves particularly resources render dynamic nature geological occurrences potential technological recoverability importantly rogner</phrase>
+	<phrase weight="7.451564828614009E-4" count="1">act sense known unknown europe shale</phrase>
+	<phrase weight="7.451564828614009E-4" count="1">given sector</phrase>
+	<phrase weight="7.451564828614009E-4" count="1">volumetric appraisals table</phrase>
+	<phrase weight="7.451564828614009E-4" count="1">geological characteristics given</phrase>
+  </topic>
+  <topic id="3" alpha="0.29170648106445085" totalTokens="5685" titles="fracking, news, coverage, cable, knowledge, media, issues, information, public, frames">
+	<word weight="0.025857519788918207" count="147">fracking</word>
+	<word weight="0.021459982409850482" count="122">news</word>
+	<word weight="0.008443271767810026" count="48">coverage</word>
+	<word weight="0.007739665787159191" count="44">cable</word>
+	<word weight="0.007563764291996482" count="43">knowledge</word>
+	<word weight="0.007211961301671064" count="41">media</word>
+	<word weight="0.007211961301671064" count="41">issues</word>
+	<word weight="0.007036059806508356" count="40">information</word>
+	<word weight="0.007036059806508356" count="40">public</word>
+	<word weight="0.006684256816182938" count="38">frames</word>
+	<word weight="0.006508355321020229" count="37">stories</word>
+	<word weight="0.006508355321020229" count="37">sources</word>
+	<word weight="0.006156552330694811" count="35">local</word>
+	<word weight="0.006156552330694811" count="35">environmental</word>
+	<word weight="0.005980650835532102" count="34">process</word>
+	<word weight="0.005804749340369393" count="33">issue</word>
+	<word weight="0.005628847845206684" count="32">fox</word>
+	<word weight="0.005452946350043976" count="31">meetings</word>
+	<word weight="0.005452946350043976" count="31">meeting</word>
+	<word weight="0.005277044854881266" count="30">future</word>
+	<phrase weight="0.003067484662576687" count="2">taxation royalties</phrase>
+	<phrase weight="0.003067484662576687" count="2">newspapers national newspapers television observed</phrase>
+	<phrase weight="0.003067484662576687" count="2">hybrid forums</phrase>
+	<phrase weight="0.003067484662576687" count="2">challenge communication negotiation</phrase>
+	<phrase weight="0.003067484662576687" count="2">company representatives</phrase>
+	<phrase weight="0.003067484662576687" count="2">pomorskie time</phrase>
+	<phrase weight="0.0015337423312883436" count="1">release deep rock</phrase>
+	<phrase weight="0.0015337423312883436" count="1">anti fracking protest</phrase>
+	<phrase weight="0.0015337423312883436" count="1">study framing shale exploration poland frames including national security concerns economic</phrase>
+	<phrase weight="0.0015337423312883436" count="1">fracking related incidents release gasland documentary fracking alongside increased media attention public based frequency topic release gasland focused negative impact fracking contributed mobilizing anti fracking movements agenda setting topic based issues discussed content fracking particularly important current analysis issues</phrase>
+	<phrase weight="0.0015337423312883436" count="1">allows examine</phrase>
+	<phrase weight="0.0015337423312883436" count="1">documented communities wanted</phrase>
+	<phrase weight="0.0015337423312883436" count="1">bodies epa experts non partisan sources used additionally use variety sources order</phrase>
+	<phrase weight="0.0015337423312883436" count="1">attractive companies</phrase>
+	<phrase weight="0.0015337423312883436" count="1">proximity areas practiced investigation opinions residents</phrase>
+	<phrase weight="0.0015337423312883436" count="1">hydraulic fracturing technique challenges great promises analysis cable news coverage results partisan news outlets selectively present fracking related issues topic selection</phrase>
+	<phrase weight="0.0015337423312883436" count="1">resource applied</phrase>
+	<phrase weight="0.0015337423312883436" count="1">drop december</phrase>
+	<phrase weight="0.0015337423312883436" count="1">situation resource</phrase>
+	<phrase weight="0.0015337423312883436" count="1">purely epistemic endeavor tried</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,171 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.3800543759404625" totalTokens="18082" titles="gas, energy, shale, policy, poland, state, regulatory, technology, technologies, innovation">
+	<word weight="0.026379825240570733" count="477">gas</word>
+	<word weight="0.022232053976330053" count="402">energy</word>
+	<word weight="0.01675699590753235" count="303">shale</word>
+	<word weight="0.012498617409578586" count="226">policy</word>
+	<word weight="0.011945581241013163" count="216">poland</word>
+	<word weight="0.009899347417321094" count="179">state</word>
+	<word weight="0.007465988275633226" count="135">regulatory</word>
+	<word weight="0.007189470191350514" count="130">technology</word>
+	<word weight="0.006747041256498175" count="122">technologies</word>
+	<word weight="0.006359915938502378" count="115">innovation</word>
+	<word weight="0.005972790620506581" count="108">nuclear</word>
+	<word weight="0.005751576153080412" count="104">new</word>
+	<word weight="0.005640968919367327" count="102">fracking</word>
+	<word weight="0.005530361685654242" count="100">polish</word>
+	<word weight="0.005530361685654242" count="100">resources</word>
+	<word weight="0.0048667182833757325" count="88">power</word>
+	<word weight="0.004645503815949563" count="84">level</word>
+	<word weight="0.004590200199093021" count="83">important</word>
+	<word weight="0.004534896582236478" count="82">country</word>
+	<word weight="0.004424289348523394" count="80">political</word>
+	<phrase weight="0.004140786749482402" count="10">shale gas</phrase>
+	<phrase weight="0.002070393374741201" count="5">energy security</phrase>
+	<phrase weight="0.0016563146997929607" count="4">nuclear power</phrase>
+	<phrase weight="0.0012422360248447205" count="3">energy policy</phrase>
+	<phrase weight="0.0012422360248447205" count="3">policy mixes</phrase>
+	<phrase weight="8.281573498964803E-4" count="2">natural resources</phrase>
+	<phrase weight="8.281573498964803E-4" count="2">gas extraction</phrase>
+	<phrase weight="8.281573498964803E-4" count="2">energy efficiency</phrase>
+	<phrase weight="8.281573498964803E-4" count="2">sustainability transitions</phrase>
+	<phrase weight="8.281573498964803E-4" count="2">determines success failure contested</phrase>
+	<phrase weight="8.281573498964803E-4" count="2">technologies regardless</phrase>
+	<phrase weight="8.281573498964803E-4" count="2">energy balance</phrase>
+	<phrase weight="8.281573498964803E-4" count="2">fracking nuclear power</phrase>
+	<phrase weight="8.281573498964803E-4" count="2">highly political</phrase>
+	<phrase weight="8.281573498964803E-4" count="2">shale key</phrase>
+	<phrase weight="8.281573498964803E-4" count="2">choice ahp</phrase>
+	<phrase weight="8.281573498964803E-4" count="2">polish shale</phrase>
+	<phrase weight="4.1407867494824016E-4" count="1">industries geology policies</phrase>
+	<phrase weight="4.1407867494824016E-4" count="1">primary energy</phrase>
+	<phrase weight="4.1407867494824016E-4" count="1">affirmed government shale gas oil policy statement</phrase>
+  </topic>
+  <topic id="1" alpha="0.41930001589113974" totalTokens="20369" titles="gas, shale, development, local, public, risks, governance, industry, uncertainty, extraction">
+	<word weight="0.038048014139132995" count="775">gas</word>
+	<word weight="0.03146938975894742" count="641">shale</word>
+	<word weight="0.014580980902351612" count="297">development</word>
+	<word weight="0.009524277087731356" count="194">local</word>
+	<word weight="0.007756885463203888" count="158">public</word>
+	<word weight="0.007707791251411459" count="157">risks</word>
+	<word weight="0.006382247533015858" count="130">governance</word>
+	<word weight="0.00603858805046885" count="123">industry</word>
+	<word weight="0.005744022779714272" count="117">uncertainty</word>
+	<word weight="0.005645834356129412" count="115">extraction</word>
+	<word weight="0.005400363297167264" count="110">communities</word>
+	<word weight="0.005302174873582405" count="108">decision</word>
+	<word weight="0.005253080661789975" count="107">years</word>
+	<word weight="0.005203986449997545" count="106">water</word>
+	<word weight="0.005203986449997545" count="106">knowledge</word>
+	<word weight="0.005105798026412686" count="104">social</word>
+	<word weight="0.004958515391035397" count="101">risk</word>
+	<word weight="0.0049094211792429674" count="100">environmental</word>
+	<word weight="0.004713044332073249" count="96">oil</word>
+	<word weight="0.004713044332073249" count="96">participants</word>
+	<phrase weight="0.00577319587628866" count="14">shale gas</phrase>
+	<phrase weight="0.002061855670103093" count="5">natural gas</phrase>
+	<phrase weight="0.002061855670103093" count="5">gas development</phrase>
+	<phrase weight="0.002061855670103093" count="5">shale gas development</phrase>
+	<phrase weight="0.0012371134020618556" count="3">shale gas industry</phrase>
+	<phrase weight="8.247422680412372E-4" count="2">gas industry</phrase>
+	<phrase weight="8.247422680412372E-4" count="2">explore extract setting based private transaction landowner</phrase>
+	<phrase weight="8.247422680412372E-4" count="2">hydraulic fracturing</phrase>
+	<phrase weight="8.247422680412372E-4" count="2">eagle ford task</phrase>
+	<phrase weight="8.247422680412372E-4" count="2">negotiation common future</phrase>
+	<phrase weight="8.247422680412372E-4" count="2">shale gas extraction</phrase>
+	<phrase weight="8.247422680412372E-4" count="2">shale gas governance</phrase>
+	<phrase weight="8.247422680412372E-4" count="2">canada china mexico</phrase>
+	<phrase weight="8.247422680412372E-4" count="2">shale gas resources</phrase>
+	<phrase weight="8.247422680412372E-4" count="2">gas oil</phrase>
+	<phrase weight="8.247422680412372E-4" count="2">oil gas industry</phrase>
+	<phrase weight="8.247422680412372E-4" count="2">local communities</phrase>
+	<phrase weight="8.247422680412372E-4" count="2">gas production</phrase>
+	<phrase weight="8.247422680412372E-4" count="2">air pollution</phrase>
+	<phrase weight="4.123711340206186E-4" count="1">industry numerous groups exploratory activities uncertainty lies</phrase>
+  </topic>
+  <topic id="2" alpha="0.785061273954938" totalTokens="25618" titles="coal, energy, policy, industry, climate, power, national, research, development, government">
+	<word weight="0.02545085486767117" count="652">coal</word>
+	<word weight="0.02260129596377547" count="579">energy</word>
+	<word weight="0.013232883129049886" count="339">policy</word>
+	<word weight="0.009524553048637677" count="244">industry</word>
+	<word weight="0.00921227262081349" count="236">climate</word>
+	<word weight="0.008197361230384885" count="210">power</word>
+	<word weight="0.008119291123428839" count="208">national</word>
+	<word weight="0.008080256069950815" count="207">research</word>
+	<word weight="0.006674994144741978" count="171">development</word>
+	<word weight="0.006674994144741978" count="171">government</word>
+	<word weight="0.006440783823873838" count="165">mining</word>
+	<word weight="0.006362713716917792" count="163">actors</word>
+	<word weight="0.00608946834257163" count="156">political</word>
+	<word weight="0.005425872433445234" count="139">groups</word>
+	<word weight="0.005308767273011164" count="136">economic</word>
+	<word weight="0.005113592005621048" count="131">change</word>
+	<word weight="0.004957451791708954" count="127">environmental</word>
+	<word weight="0.004410961043016629" count="113">new</word>
+	<word weight="0.004215785775626512" count="108">social</word>
+	<word weight="0.004137715668670466" count="106">science</word>
+	<phrase weight="0.0015420200462606013" count="4">coal mining</phrase>
+	<phrase weight="0.0015420200462606013" count="4">focus groups</phrase>
+	<phrase weight="0.001156515034695451" count="3">united states</phrase>
+	<phrase weight="0.001156515034695451" count="3">energy systems</phrase>
+	<phrase weight="0.001156515034695451" count="3">climate change</phrase>
+	<phrase weight="7.710100231303007E-4" count="2">focus group</phrase>
+	<phrase weight="7.710100231303007E-4" count="2">generation capacity</phrase>
+	<phrase weight="7.710100231303007E-4" count="2">coal production</phrase>
+	<phrase weight="7.710100231303007E-4" count="2">bound hard</phrase>
+	<phrase weight="7.710100231303007E-4" count="2">political elite</phrase>
+	<phrase weight="7.710100231303007E-4" count="2">collective action</phrase>
+	<phrase weight="7.710100231303007E-4" count="2">coal lignite</phrase>
+	<phrase weight="7.710100231303007E-4" count="2">hard coal</phrase>
+	<phrase weight="7.710100231303007E-4" count="2">energy transitions</phrase>
+	<phrase weight="7.710100231303007E-4" count="2">energy infrastructure</phrase>
+	<phrase weight="7.710100231303007E-4" count="2">coal industry</phrase>
+	<phrase weight="7.710100231303007E-4" count="2">power plant</phrase>
+	<phrase weight="7.710100231303007E-4" count="2">basin basin</phrase>
+	<phrase weight="3.8550501156515033E-4" count="1">groups movements represent thinking based</phrase>
+	<phrase weight="3.8550501156515033E-4" count="1">power stations</phrase>
+  </topic>
+  <topic id="3" alpha="0.5069051127856403" totalTokens="12160" titles="coal, oil, energy, fracking, news, environmental, gas, natural, resources, use">
+	<word weight="0.020805921052631578" count="253">coal</word>
+	<word weight="0.014555921052631579" count="177">oil</word>
+	<word weight="0.011677631578947368" count="142">energy</word>
+	<word weight="0.011266447368421053" count="137">fracking</word>
+	<word weight="0.010032894736842105" count="122">news</word>
+	<word weight="0.007730263157894737" count="94">environmental</word>
+	<word weight="0.007236842105263158" count="88">gas</word>
+	<word weight="0.006578947368421052" count="80">natural</word>
+	<word weight="0.006414473684210526" count="78">resources</word>
+	<word weight="0.006332236842105263" count="77">use</word>
+	<word weight="0.005674342105263158" count="69">communities</word>
+	<word weight="0.005592105263157895" count="68">stories</word>
+	<word weight="0.005509868421052631" count="67">issues</word>
+	<word weight="0.005263157894736842" count="64">sources</word>
+	<word weight="0.005263157894736842" count="64">topic</word>
+	<word weight="0.005016447368421053" count="61">related</word>
+	<word weight="0.004934210526315789" count="60">like</word>
+	<word weight="0.004934210526315789" count="60">fuel</word>
+	<word weight="0.004769736842105263" count="58">emissions</word>
+	<word weight="0.004605263157894736" count="56">new</word>
+	<phrase weight="0.001310615989515072" count="2">long term</phrase>
+	<phrase weight="0.001310615989515072" count="2">hydraulic fracturing</phrase>
+	<phrase weight="0.001310615989515072" count="2">economic opportunities</phrase>
+	<phrase weight="0.001310615989515072" count="2">air pollution</phrase>
+	<phrase weight="0.001310615989515072" count="2">non energy</phrase>
+	<phrase weight="0.001310615989515072" count="2">coal communities</phrase>
+	<phrase weight="0.001310615989515072" count="2">resources used</phrase>
+	<phrase weight="0.001310615989515072" count="2">open coal</phrase>
+	<phrase weight="6.55307994757536E-4" count="1">culture way people feel</phrase>
+	<phrase weight="6.55307994757536E-4" count="1">control mind fuel bills</phrase>
+	<phrase weight="6.55307994757536E-4" count="1">intensive percentage population working</phrase>
+	<phrase weight="6.55307994757536E-4" count="1">uses approach explore narratives published</phrase>
+	<phrase weight="6.55307994757536E-4" count="1">consumption changes emissions coal use controlling</phrase>
+	<phrase weight="6.55307994757536E-4" count="1">reasons instance possible</phrase>
+	<phrase weight="6.55307994757536E-4" count="1">interviewee years block high going</phrase>
+	<phrase weight="6.55307994757536E-4" count="1">influencing energy captured used</phrase>
+	<phrase weight="6.55307994757536E-4" count="1">service offers contact written situations possible</phrase>
+	<phrase weight="6.55307994757536E-4" count="1">use proppants process estimates oil</phrase>
+	<phrase weight="6.55307994757536E-4" count="1">newspapers news identified pro fracking anti fracking based constructed narrative presented fracking clean energy source oppositional clean energy existing work increased attention paid fracking local newspapers</phrase>
+	<phrase weight="6.55307994757536E-4" count="1">topic remain public need media present coverage aims</phrase>
+  </topic>
+</topics>

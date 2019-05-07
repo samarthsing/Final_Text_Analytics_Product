@@ -1,0 +1,4 @@
+0	0.98358	coal energy gas mining natural transition local new emissions use fuel opposition communities environmental frame people resources advice heating social 
+1	0.60048	coal policy climate energy groups actors industry change environmental network action organizations business framings national debate level interests power political 
+2	0.71753	energy coal power development national security nkpp political economic new lignite poland electricity technical government plant sector country kosovo practices 
+3	0.38716	research oil industry coal science knowledge public corpus university government csg ccsg topic social environmental like universities texts policy nonfiction 
