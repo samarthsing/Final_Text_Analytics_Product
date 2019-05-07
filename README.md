@@ -27,10 +27,17 @@ The results from them were not that great and insightful, but still provided han
 
 Files:
 Mallet_results: Has the topic modelling results
+
 Initial Data: data intially taken which was discarded
+
 FInal Data: Final data whose link are also given above
+
 DS5559_Combine_Lexicons.ipynb: Combines the lexicons to form lexicons.db.( No need to run if the database is already there).
+
 Final Project Coal.ipynb and Final Project Shale Gas: main two notebooks performing sentiment analysis on all the documents
+
 FInal_Coal_Individual.ipynb: Practice notebook which Performs analytics on one text file.
+
 Mallet_corpus_convertor.ipynb: Helps to corpus in excelform to further send the files to Mallet.
+
 textman.py: Utility File
